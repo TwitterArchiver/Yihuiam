@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-12T06:50:59",
+  "last_updated": "2026-07-12T06:58:28",
   "html": {
     "https://web.archive.org/web/20260524100143if_/https://twitter.com/Yihuiam/status/2058488605321113709": {
       "status": "done",
@@ -3961,13 +3961,13 @@
       "last_updated": "2026-07-12T01:36:42"
     },
     "https://pbs.twimg.com/profile_images/2064650570481459200/VhgCYnxn_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260624071229_twitter_com_Yihuiam_status_2069680041592807739.json"
       ],
-      "last_updated": "2026-07-12T05:27:25",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260624071229if_/https://pbs.twimg.com/profile_images/2064650570481459200/VhgCYnxn_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7b6badf6b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-07-12T06:58:28",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260624071229if_/https://pbs.twimg.com/profile_images/2064650570481459200/VhgCYnxn_normal.jpg",
+      "miss_count": 7
     },
     "https://pbs.twimg.com/profile_images/2038629926681853952/DOGrRi-H_normal.jpg": {
       "status": "done",
@@ -7349,7 +7349,7 @@
       "last_updated": "2026-07-12T01:36:42"
     },
     "20260624071229_twitter_com_Yihuiam_status_2069680041592807739.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HLAtxI1a0AAraRs.jpg"
@@ -7360,7 +7360,7 @@
           "https://pbs.twimg.com/profile_images/2064650570481459200/VhgCYnxn_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T06:50:59",
+      "last_updated": "2026-07-12T06:58:28",
       "miss_count": 6
     },
     "20260624123150_twitter_com_Yihuiam_status_2069760411067683228.json": {

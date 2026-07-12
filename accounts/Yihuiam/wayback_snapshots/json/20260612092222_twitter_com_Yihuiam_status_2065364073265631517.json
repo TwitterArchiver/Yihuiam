@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2065262615832752477",
+    "created_at": "2026-06-12T09:22:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T10:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065364073265631517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1226126253893341184",
+          "start": 0,
+          "username": "konosuz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065364073265631517",
+    "in_reply_to_user_id": "1226126253893341184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065262615832752477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@konosuz 快把群里的狗找出来吊死啊！😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 888,
+        "media_key": "3_2065262612615667712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlJZ2jaIAAh5J1.jpg",
+        "width": 1686
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2065262615832752477",
+        "created_at": "2026-06-12T09:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065364073265631517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1226126253893341184",
+              "start": 0,
+              "username": "konosuz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065364073265631517",
+        "in_reply_to_user_id": "1226126253893341184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065262615832752477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konosuz 快把群里的狗找出来吊死啊！😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065262612615667712"
+          ]
+        },
+        "author_id": "1226126253893341184",
+        "conversation_id": "2065262615832752477",
+        "created_at": "2026-06-12T02:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T03:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065262615832752477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MXwIB1pAuM",
+              "end": 42,
+              "expanded_url": "https://x.com/konosuz/status/2065262615832752477/photo/1",
+              "media_key": "3_2065262612615667712",
+              "start": 19,
+              "url": "https://t.co/MXwIB1pAuM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065262615832752477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😰“潜入国内多个od社群”素在... https://t.co/MXwIB1pAuM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂\n喜欢致幻剂///音乐",
+        "id": "2041095876417122305",
+        "name": "一户",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 465,
+          "like_count": 1296,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 104
+        },
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-08T12:51:19.000Z",
+        "description": "中国人冷静一下💦💦",
+        "id": "1226126253893341184",
+        "name": "小米粥",
+        "pinned_tweet_id": "1773027026632376702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061345437010018304/eh-bxtMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 299,
+          "like_count": 3094,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1399
+        },
+        "username": "konosuz",
+        "verified": false
+      }
+    ]
+  }
+}

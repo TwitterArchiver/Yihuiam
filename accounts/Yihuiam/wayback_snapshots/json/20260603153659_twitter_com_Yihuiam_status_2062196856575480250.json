@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2061985618268463430",
+    "created_at": "2026-06-03T15:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T16:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062196856575480250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1312318951653863424",
+          "start": 0,
+          "username": "Qimuli750"
+        },
+        {
+          "end": 22,
+          "id": "952401387479969792",
+          "start": 11,
+          "username": "oguobtscfg"
+        },
+        {
+          "end": 35,
+          "id": "1838594060040441856",
+          "start": 23,
+          "username": "huang830121"
+        },
+        {
+          "end": 43,
+          "id": "2030455725374550016",
+          "start": 36,
+          "username": "AAcfun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062196856575480250",
+    "in_reply_to_user_id": "1312318951653863424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062181011312750782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qimuli750 @oguobtscfg @huang830121 @AAcfun 疯狂8964"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2061985618268463430",
+        "created_at": "2026-06-03T15:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062196856575480250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1312318951653863424",
+              "start": 0,
+              "username": "Qimuli750"
+            },
+            {
+              "end": 22,
+              "id": "952401387479969792",
+              "start": 11,
+              "username": "oguobtscfg"
+            },
+            {
+              "end": 35,
+              "id": "1838594060040441856",
+              "start": 23,
+              "username": "huang830121"
+            },
+            {
+              "end": 43,
+              "id": "2030455725374550016",
+              "start": 36,
+              "username": "AAcfun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062196856575480250",
+        "in_reply_to_user_id": "1312318951653863424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062181011312750782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qimuli750 @oguobtscfg @huang830121 @AAcfun 疯狂8964"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1312318951653863424",
+        "conversation_id": "2061985618268463430",
+        "created_at": "2026-06-03T14:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062181011312750782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "952401387479969792",
+              "start": 0,
+              "username": "oguobtscfg"
+            },
+            {
+              "end": 24,
+              "id": "1838594060040441856",
+              "start": 12,
+              "username": "huang830121"
+            },
+            {
+              "end": 32,
+              "id": "2030455725374550016",
+              "start": 25,
+              "username": "AAcfun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062181011312750782",
+        "in_reply_to_user_id": "952401387479969792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062146314830512574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oguobtscfg @huang830121 @AAcfun 疯狂星期四？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//接受所有属性/学习药理中🙂\n喜欢致幻剂",
+        "id": "2041095876417122305",
+        "name": "Yihuiam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 207,
+          "like_count": 393,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 40
+        },
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-03T09:10:05.000Z",
+        "description": "狮子座INFP-T 4W5  焦虑型依恋（中度）",
+        "id": "1312318951653863424",
+        "location": "湖北武汉",
+        "name": "繁星七月",
+        "pinned_tweet_id": "1924884628155818232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1446859443983958016/ngx06-mh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 283,
+          "like_count": 1725,
+          "listed_count": 0,
+          "media_count": 246,
+          "tweet_count": 1309
+        },
+        "username": "Qimuli750",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-14T04:46:00.000Z",
+        "description": "美术和程序双修 (非TA) Unity开发 3D建模 平面视觉设计",
+        "id": "952401387479969792",
+        "location": "福建",
+        "name": "COCC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1431685371939672064/vYuvqXUW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 568,
+          "like_count": 9247,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 1695
+        },
+        "username": "oguobtscfg",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T14:59:27.000Z",
+        "description": "",
+        "id": "1838594060040441856",
+        "name": "黄星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838594289695363072/QOnCYu37_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 5,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "huang830121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-08T01:29:09.000Z",
+        "description": "‍",
+        "id": "2030455725374550016",
+        "location": "自己的小房间",
+        "name": "云兮🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052950670878404608/-ahKaRcc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 147,
+          "like_count": 9174,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1765
+        },
+        "username": "AAcfun",
+        "verified": true
+      }
+    ]
+  }
+}

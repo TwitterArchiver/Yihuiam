@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064766753541124096",
+        "3_2064766753536987136"
+      ],
+      "media_source_tweet_id": [
+        "2064766772373590382",
+        "2064766772373590382"
+      ]
+    },
+    "author_id": "2041095876417122305",
+    "conversation_id": "2065364940018631000",
+    "created_at": "2026-06-12T09:25:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T10:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065364940018631000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1898308906994294784",
+          "start": 3,
+          "username": "TTBRAr12"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VLRCuxLt7O",
+          "end": 77,
+          "expanded_url": "https://x.com/TTBRAr12/status/2064766772373590382/photo/1",
+          "media_key": "3_2064766753541124096",
+          "start": 54,
+          "url": "https://t.co/VLRCuxLt7O"
+        },
+        {
+          "display_url": "pic.x.com/VLRCuxLt7O",
+          "end": 77,
+          "expanded_url": "https://x.com/TTBRAr12/status/2064766772373590382/photo/1",
+          "media_key": "3_2064766753536987136",
+          "start": 54,
+          "url": "https://t.co/VLRCuxLt7O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065364940018631000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064766772373590382",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TTBRAr12: 避雷这个泰产右美，辅料里有泻药成份，大剂量使用就变成强烈泻药，一晚上净跑厕所了 https://t.co/VLRCuxLt7O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064766753541124096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKeGbDja8AAEsLN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064766753536987136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKeGbDib0AAa1p2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064766753541124096",
+            "3_2064766753536987136"
+          ],
+          "media_source_tweet_id": [
+            "2064766772373590382",
+            "2064766772373590382"
+          ]
+        },
+        "author_id": "2041095876417122305",
+        "conversation_id": "2065364940018631000",
+        "created_at": "2026-06-12T09:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065364940018631000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1898308906994294784",
+              "start": 3,
+              "username": "TTBRAr12"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VLRCuxLt7O",
+              "end": 77,
+              "expanded_url": "https://x.com/TTBRAr12/status/2064766772373590382/photo/1",
+              "media_key": "3_2064766753541124096",
+              "start": 54,
+              "url": "https://t.co/VLRCuxLt7O"
+            },
+            {
+              "display_url": "pic.x.com/VLRCuxLt7O",
+              "end": 77,
+              "expanded_url": "https://x.com/TTBRAr12/status/2064766772373590382/photo/1",
+              "media_key": "3_2064766753536987136",
+              "start": 54,
+              "url": "https://t.co/VLRCuxLt7O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065364940018631000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064766772373590382",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TTBRAr12: 避雷这个泰产右美，辅料里有泻药成份，大剂量使用就变成强烈泻药，一晚上净跑厕所了 https://t.co/VLRCuxLt7O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064766753541124096",
+            "3_2064766753536987136"
+          ]
+        },
+        "author_id": "1898308906994294784",
+        "conversation_id": "2064766772373590382",
+        "created_at": "2026-06-10T17:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T18:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064766772373590382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VLRCuxLt7O",
+              "end": 63,
+              "expanded_url": "https://x.com/TTBRAr12/status/2064766772373590382/photo/1",
+              "media_key": "3_2064766753541124096",
+              "start": 40,
+              "url": "https://t.co/VLRCuxLt7O"
+            },
+            {
+              "display_url": "pic.x.com/VLRCuxLt7O",
+              "end": 63,
+              "expanded_url": "https://x.com/TTBRAr12/status/2064766772373590382/photo/1",
+              "media_key": "3_2064766753536987136",
+              "start": 40,
+              "url": "https://t.co/VLRCuxLt7O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064766772373590382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 20262,
+          "like_count": 153,
+          "quote_count": 3,
+          "reply_count": 26,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "避雷这个泰产右美，辅料里有泻药成份，大剂量使用就变成强烈泻药，一晚上净跑厕所了 https://t.co/VLRCuxLt7O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂\n喜欢致幻剂///音乐",
+        "id": "2041095876417122305",
+        "name": "一户",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 465,
+          "like_count": 1301,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 105
+        },
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T09:44:56.000Z",
+        "description": "",
+        "id": "1898308906994294784",
+        "name": "TTAR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966263377233403904/aqrIK04U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 774,
+          "like_count": 6509,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1243
+        },
+        "username": "TTBRAr12",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "TR"
+          ]
+        }
+      }
+    ]
+  }
+}

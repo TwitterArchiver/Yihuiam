@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2067440644658974841",
+    "created_at": "2026-06-18T02:53:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T03:53:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067440644658974841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1518404201168007168",
+          "start": 3,
+          "username": "godspeedyou50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067440644658974841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067100591059574809",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @godspeedyou50: 我在想喷一件事但不知道从哪开口才不会被误会成某种开脱，所以套个盾。\n就是有些人真的，其实打你们出社会起就开始喝动力火车ktv畅饮，对酒的理解都只是上吐下泻和亲嘴操逼。\n你们这种人接触精神活化物是可怕的，你们甚至都不知道微醺的美、醉酒的肆意，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2067440644658974841",
+        "created_at": "2026-06-18T02:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T03:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067440644658974841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1518404201168007168",
+              "start": 3,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067440644658974841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067100591059574809",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @godspeedyou50: 我在想喷一件事但不知道从哪开口才不会被误会成某种开脱，所以套个盾。\n就是有些人真的，其实打你们出社会起就开始喝动力火车ktv畅饮，对酒的理解都只是上吐下泻和亲嘴操逼。\n你们这种人接触精神活化物是可怕的，你们甚至都不知道微醺的美、醉酒的肆意，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2067100591059574809",
+        "created_at": "2026-06-17T04:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067100591059574809"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067100591059574809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 443,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我在想喷一件事但不知道从哪开口才不会被误会成某种开脱，所以套个盾。\n就是有些人真的，其实打你们出社会起就开始喝动力火车ktv畅饮，对酒的理解都只是上吐下泻和亲嘴操逼。\n你们这种人接触精神活化物是可怕的，你们甚至都不知道微醺的美、醉酒的肆意，不谈酒，只是谈品尝，可以尝试去细细咀嚼🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂///音乐\n好闺闺@RottenCrow1\n梨梨@Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 82,
+                "start": 69,
+                "username": "Hendry540558"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL2szz"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "name": "一户",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 543,
+          "like_count": 1806,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 167
+        },
+        "url": "https://t.co/EFwkXL2szz",
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 356,
+          "like_count": 1171,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 2704
+        },
+        "url": "",
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

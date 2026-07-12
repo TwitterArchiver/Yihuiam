@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065366769771184128"
+      ]
+    },
+    "author_id": "2041095876417122305",
+    "conversation_id": "2065366786745458767",
+    "created_at": "2026-06-12T09:33:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T10:33:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065366786745458767"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0roOcQCIXP",
+          "end": 37,
+          "expanded_url": "https://x.com/Yihuiam/status/2065366786745458767/photo/1",
+          "media_key": "3_2065366769771184128",
+          "start": 14,
+          "url": "https://t.co/0roOcQCIXP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065366786745458767",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "同学送的pr 配巴氯芬吃😋 https://t.co/0roOcQCIXP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065366769771184128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmoImMbgAAN6JO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065366769771184128"
+          ]
+        },
+        "author_id": "2041095876417122305",
+        "conversation_id": "2065366786745458767",
+        "created_at": "2026-06-12T09:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065366786745458767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0roOcQCIXP",
+              "end": 37,
+              "expanded_url": "https://x.com/Yihuiam/status/2065366786745458767/photo/1",
+              "media_key": "3_2065366769771184128",
+              "start": 14,
+              "url": "https://t.co/0roOcQCIXP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065366786745458767",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同学送的pr 配巴氯芬吃😋 https://t.co/0roOcQCIXP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂\n喜欢致幻剂///音乐",
+        "id": "2041095876417122305",
+        "name": "一户",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 466,
+          "like_count": 1308,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 107
+        },
+        "username": "Yihuiam",
+        "verified": false
+      }
+    ]
+  }
+}

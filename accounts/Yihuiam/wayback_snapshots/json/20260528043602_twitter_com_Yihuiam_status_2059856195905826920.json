@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059538259022151680"
+      ],
+      "media_source_tweet_id": [
+        "2059538265984639131"
+      ]
+    },
+    "author_id": "2041095876417122305",
+    "conversation_id": "2059856195905826920",
+    "created_at": "2026-05-28T04:36:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T05:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059856195905826920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1977352693245980672",
+          "start": 3,
+          "username": "Anonymous779215"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TTqV95H7yY",
+          "end": 51,
+          "expanded_url": "https://x.com/Anonymous779215/status/2059538265984639131/photo/1",
+          "media_key": "3_2059538259022151680",
+          "start": 28,
+          "url": "https://t.co/TTqV95H7yY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059856195905826920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059538265984639131",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Anonymous779215: 这是人磕的？ https://t.co/TTqV95H7yY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2059538259022151680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTzInpXgAA7V4i.jpg",
+        "width": 897
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059538259022151680"
+          ],
+          "media_source_tweet_id": [
+            "2059538265984639131"
+          ]
+        },
+        "author_id": "2041095876417122305",
+        "conversation_id": "2059856195905826920",
+        "created_at": "2026-05-28T04:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059856195905826920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1977352693245980672",
+              "start": 3,
+              "username": "Anonymous779215"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TTqV95H7yY",
+              "end": 51,
+              "expanded_url": "https://x.com/Anonymous779215/status/2059538265984639131/photo/1",
+              "media_key": "3_2059538259022151680",
+              "start": 28,
+              "url": "https://t.co/TTqV95H7yY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059856195905826920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059538265984639131",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Anonymous779215: 这是人磕的？ https://t.co/TTqV95H7yY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059538259022151680"
+          ]
+        },
+        "author_id": "1977352693245980672",
+        "conversation_id": "2059538265984639131",
+        "created_at": "2026-05-27T07:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059538265984639131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TTqV95H7yY",
+              "end": 30,
+              "expanded_url": "https://x.com/Anonymous779215/status/2059538265984639131/photo/1",
+              "media_key": "3_2059538259022151680",
+              "start": 7,
+              "url": "https://t.co/TTqV95H7yY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059538265984639131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 47148,
+          "like_count": 440,
+          "quote_count": 2,
+          "reply_count": 54,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "这是人磕的？ https://t.co/TTqV95H7yY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//我不是晶 新手号带我玩呀我接受所有属性/学习药理中🙂\n喜欢致幻剂",
+        "id": "2041095876417122305",
+        "name": "Yihuiam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 113,
+          "like_count": 230,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 20
+        },
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T12:36:43.000Z",
+        "description": ".",
+        "id": "1977352693245980672",
+        "name": "Anonymous",
+        "pinned_tweet_id": "2059715242586751200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016476555103358976/ir3bfWgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 157,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 380
+        },
+        "username": "Anonymous779215",
+        "verified": true
+      }
+    ]
+  }
+}

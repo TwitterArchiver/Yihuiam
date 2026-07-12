@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2064392062796177520",
+    "created_at": "2026-06-10T10:25:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T11:25:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064655200254931231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1914646344280739840",
+          "start": 0,
+          "username": "yuki_yuki_ovo"
+        },
+        {
+          "end": 26,
+          "id": "1753540041987756032",
+          "start": 15,
+          "username": "Hia1375402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064655200254931231",
+    "in_reply_to_user_id": "1914646344280739840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064653601780408479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuki_yuki_ovo @Hia1375402 私我或者开一下私信呗🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2064392062796177520",
+        "created_at": "2026-06-10T10:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064655200254931231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1914646344280739840",
+              "start": 0,
+              "username": "yuki_yuki_ovo"
+            },
+            {
+              "end": 26,
+              "id": "1753540041987756032",
+              "start": 15,
+              "username": "Hia1375402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064655200254931231",
+        "in_reply_to_user_id": "1914646344280739840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064653601780408479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_yuki_ovo @Hia1375402 私我或者开一下私信呗🫠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914646344280739840",
+        "conversation_id": "2064392062796177520",
+        "created_at": "2026-06-10T10:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064653601780408479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2041095876417122305",
+              "start": 0,
+              "username": "Yihuiam"
+            },
+            {
+              "end": 20,
+              "id": "1753540041987756032",
+              "start": 9,
+              "username": "Hia1375402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064653601780408479",
+        "in_reply_to_user_id": "2041095876417122305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064574808554381581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yihuiam @Hia1375402 老公求链接"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂\n喜欢致幻剂///音乐",
+        "id": "2041095876417122305",
+        "name": "一户",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 413,
+          "like_count": 1057,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 92
+        },
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T11:44:04.000Z",
+        "description": "😇😇",
+        "id": "1914646344280739840",
+        "name": "情緒化🌐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995609138781659136/HmFsr3uE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 16,
+          "like_count": 2955,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 68
+        },
+        "username": "yuki_yuki_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T22:05:10.000Z",
+        "description": "",
+        "id": "1753540041987756032",
+        "name": "c9",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773758720343977984/CAC5yrtK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 62,
+          "like_count": 450,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 32
+        },
+        "username": "Hia1375402",
+        "verified": false
+      }
+    ]
+  }
+}

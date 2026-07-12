@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2060781263703974237",
+    "created_at": "2026-05-30T17:51:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T18:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060781263703974237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2048935238680879104",
+          "start": 3,
+          "username": "zen_lab_club"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060781263703974237",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060208205733519729",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zen_lab_club: ZENLAB “小分子吸水内裤”抽奖赠送百亿补贴\n\n抽奖：评论区抽奖送芬尼一份x3人（不包邮）\n劲爆活动：芬尼特价20人民币/个 持续到6.20，每人限购2个。不包邮。评论即可享受活动\n好友助力：拉新赠送，拉一人报你名号购物即刻赠送任意任意产…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 714,
+        "media_key": "3_2060208086300700675",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdUVstXMAMGiRq.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2060781263703974237",
+        "created_at": "2026-05-30T17:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T18:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060781263703974237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2048935238680879104",
+              "start": 3,
+              "username": "zen_lab_club"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060781263703974237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060208205733519729",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zen_lab_club: ZENLAB “小分子吸水内裤”抽奖赠送百亿补贴\n\n抽奖：评论区抽奖送芬尼一份x3人（不包邮）\n劲爆活动：芬尼特价20人民币/个 持续到6.20，每人限购2个。不包邮。评论即可享受活动\n好友助力：拉新赠送，拉一人报你名号购物即刻赠送任意任意产…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060208086300700675"
+          ]
+        },
+        "author_id": "2048935238680879104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060208205733519729",
+        "created_at": "2026-05-29T03:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060208205733519729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Research Chemical Product。",
+              "display_url": "zenlab.onl/products/16",
+              "end": 165,
+              "expanded_url": "https://zenlab.onl/products/16",
+              "start": 142,
+              "status": 200,
+              "title": "ZENLAB - 探索未来科技与美学的融合",
+              "unwound_url": "https://zenlab.onl/products/16",
+              "url": "https://t.co/FPHsudrGZQ"
+            },
+            {
+              "display_url": "pic.x.com/vXb5l55Maq",
+              "end": 189,
+              "expanded_url": "https://x.com/zen_lab_club/status/2060208205733519729/photo/1",
+              "media_key": "3_2060208086300700675",
+              "start": 166,
+              "url": "https://t.co/vXb5l55Maq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060208205733519729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "zenlab.onl/products/16",
+                "end": 165,
+                "expanded_url": "https://zenlab.onl/products/16",
+                "start": 142,
+                "url": "https://t.co/zTyi16vDVB"
+              },
+              {
+                "display_url": "t.me/zenlab",
+                "end": 237,
+                "expanded_url": "https://t.me/zenlab",
+                "start": 214,
+                "url": "https://t.co/aFMETpJWK4"
+              }
+            ]
+          },
+          "text": "ZENLAB “小分子吸水内裤”抽奖赠送百亿补贴\n\n抽奖：评论区抽奖送芬尼一份x3人（不包邮）\n劲爆活动：芬尼特价20人民币/个 持续到6.20，每人限购2个。不包邮。评论即可享受活动\n好友助力：拉新赠送，拉一人报你名号购物即刻赠送任意任意产品（持续6.20号）\n\n查看芬尼介绍：  https://t.co/zTyi16vDVB\n\n条件：转发+关注+点赞+评论\n开奖时间：6月20号\n\n注：图片上的更多活动以及抽奖在tg频道 https://t.co/aFMETpJWK4 里可参加\n\n以上产品均为“小分子吸水内裤”不涉疫任何违规管制行为。😄"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 635,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "ZENLAB “小分子吸水内裤”抽奖赠送百亿补贴\n\n抽奖：评论区抽奖送芬尼一份x3人（不包邮）\n劲爆活动：芬尼特价20人民币/个 持续到6.20，每人限购2个。不包邮。评论即可享受活动\n好友助力：拉新赠送，拉一人报你名号购物即刻赠送任意任意产品（持续6.20号）\n\n查看芬尼介绍：  https://t.co/FPHsudrGZQ https://t.co/vXb5l55Maq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//我不是晶 新手号带我玩呀我接受所有属性/学习药理中🙂\n喜欢致幻剂",
+        "id": "2041095876417122305",
+        "name": "Yihuiam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 157,
+          "like_count": 284,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 22
+        },
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-28T01:20:30.000Z",
+        "description": "名稱ZEN 實驗室\n官网 https://t.co/XTh60qY8rI\nTG群组 https://t.co/PwxqVnq4T6\nTG通知频道 https://t.co/aFMETpJWK4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ZENLAB.ONL",
+                "end": 36,
+                "expanded_url": "https://ZENLAB.ONL",
+                "start": 13,
+                "url": "https://t.co/XTh60qY8rI"
+              },
+              {
+                "display_url": "t.me/zen4499",
+                "end": 65,
+                "expanded_url": "https://t.me/zen4499",
+                "start": 42,
+                "url": "https://t.co/PwxqVnq4T6"
+              },
+              {
+                "display_url": "t.me/zenlab",
+                "end": 96,
+                "expanded_url": "https://t.me/zenlab",
+                "start": 73,
+                "url": "https://t.co/aFMETpJWK4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zenlab.onl",
+                "end": 23,
+                "expanded_url": "http://zenlab.onl",
+                "start": 0,
+                "url": "https://t.co/xsfO6qJblV"
+              }
+            ]
+          }
+        },
+        "id": "2048935238680879104",
+        "location": "👉天国👈",
+        "name": "ZEN LAB 小分子结构定制",
+        "pinned_tweet_id": "2060208205733519729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048944953661997056/N2sohKBV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 36,
+          "like_count": 487,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 67
+        },
+        "url": "https://t.co/xsfO6qJblV",
+        "username": "zen_lab_club",
+        "verified": true
+      }
+    ]
+  }
+}

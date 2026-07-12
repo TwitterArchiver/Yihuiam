@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "1710304150716658106",
+    "created_at": "2026-06-06T09:32:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:32:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063192186062328073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1299419057649790977",
+          "start": 0,
+          "username": "Bionic_blood"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063192186062328073",
+    "in_reply_to_user_id": "1299419057649790977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1710413508662394947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bionic_blood 什么便利店都有外烟吗吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "1710304150716658106",
+        "created_at": "2026-06-06T09:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063192186062328073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1299419057649790977",
+              "start": 0,
+              "username": "Bionic_blood"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063192186062328073",
+        "in_reply_to_user_id": "1299419057649790977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1710413508662394947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bionic_blood 什么便利店都有外烟吗吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1299419057649790977",
+        "conversation_id": "1710304150716658106",
+        "created_at": "2023-10-06T21:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2023-10-06T22:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1710413508662394947"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1710413508662394947",
+        "in_reply_to_user_id": "1609549628919394305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1710413001487233474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiangjinjiu_8 @8964EmoPoppyVex 上海的便利店很牛逼，我叫朋友去买，就很普通一个便利店，我迄今为止抽过的外烟都有，哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//接受所有属性/学习药理中🙂\n喜欢致幻剂/音乐",
+        "id": "2041095876417122305",
+        "name": "Yihuiam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 280,
+          "like_count": 554,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 54
+        },
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-28T18:50:29.000Z",
+        "description": "Prose narrative, but like a diary.",
+        "id": "1299419057649790977",
+        "name": "4",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036156871204282368/HQKlbYaK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6496,
+          "following_count": 1490,
+          "like_count": 28287,
+          "listed_count": 14,
+          "media_count": 2281,
+          "tweet_count": 23197
+        },
+        "username": "Bionic_blood",
+        "verified": false
+      }
+    ]
+  }
+}

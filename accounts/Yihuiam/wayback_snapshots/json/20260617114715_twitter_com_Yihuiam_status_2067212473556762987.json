@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2067212473556762987",
+    "created_at": "2026-06-17T11:47:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T12:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067212473556762987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3022697779",
+          "start": 3,
+          "username": "RXdruglab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067212473556762987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067129875434279085",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RXdruglab: 七月一日起又禁了16种，这次公布的就很常见，是之前在大陆地区有流行的一些种类，比如咪脂类的，mdpihp，a-pihp，NEP，3-MEO-PCE,3-ME-PCP等，这些都是明确出现过的。尤其替来他明这次也被禁了，终于算是尘埃落定了。（不过含替来…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1597,
+        "media_key": "3_2067129019452256256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_q5B1acAAFxA0.jpg",
+        "width": 1199
+      },
+      {
+        "height": 1698,
+        "media_key": "3_2067129033582936064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_q52ebgAA2g2D.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2067212473556762987",
+        "created_at": "2026-06-17T11:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067212473556762987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3022697779",
+              "start": 3,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067212473556762987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067129875434279085",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RXdruglab: 七月一日起又禁了16种，这次公布的就很常见，是之前在大陆地区有流行的一些种类，比如咪脂类的，mdpihp，a-pihp，NEP，3-MEO-PCE,3-ME-PCP等，这些都是明确出现过的。尤其替来他明这次也被禁了，终于算是尘埃落定了。（不过含替来…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067129019452256256",
+            "3_2067129033582936064"
+          ]
+        },
+        "author_id": "3022697779",
+        "conversation_id": "2067129875434279085",
+        "created_at": "2026-06-17T06:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T07:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067129875434279085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C0gRQZM9Xg",
+              "end": 158,
+              "expanded_url": "https://x.com/RXdruglab/status/2067129875434279085/photo/1",
+              "media_key": "3_2067129019452256256",
+              "start": 135,
+              "url": "https://t.co/C0gRQZM9Xg"
+            },
+            {
+              "display_url": "pic.x.com/C0gRQZM9Xg",
+              "end": 158,
+              "expanded_url": "https://x.com/RXdruglab/status/2067129875434279085/photo/1",
+              "media_key": "3_2067129033582936064",
+              "start": 135,
+              "url": "https://t.co/C0gRQZM9Xg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067129875434279085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3324,
+          "like_count": 42,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "七月一日起又禁了16种，这次公布的就很常见，是之前在大陆地区有流行的一些种类，比如咪脂类的，mdpihp，a-pihp，NEP，3-MEO-PCE,3-ME-PCP等，这些都是明确出现过的。尤其替来他明这次也被禁了，终于算是尘埃落定了。（不过含替来他明的兽药不受影响） https://t.co/C0gRQZM9Xg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂///音乐\n好闺闺@RottenCrow1\n梨梨@Hendry540558\n好玩的呀⬇️🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 82,
+                "start": 69,
+                "username": "Hendry540558"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL2szz"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "name": "一户",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 537,
+          "like_count": 1736,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 167
+        },
+        "url": "https://t.co/EFwkXL2szz",
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19407,
+          "following_count": 18,
+          "like_count": 39,
+          "listed_count": 22,
+          "media_count": 56,
+          "tweet_count": 1765
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2064392062796177520",
+    "created_at": "2026-06-09T22:50:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T23:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064480361648886131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1990493180324950019",
+          "start": 0,
+          "username": "chengduqiq98640"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064480361648886131",
+    "in_reply_to_user_id": "1990493180324950019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064423973795094881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chengduqiq98640 tb上有 不过我只能找到小罐的你生意还有的做🤪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2064392062796177520",
+        "created_at": "2026-06-09T22:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T23:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064480361648886131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1990493180324950019",
+              "start": 0,
+              "username": "chengduqiq98640"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064480361648886131",
+        "in_reply_to_user_id": "1990493180324950019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064423973795094881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chengduqiq98640 tb上有 不过我只能找到小罐的你生意还有的做🤪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990493180324950019",
+        "conversation_id": "2064392062796177520",
+        "created_at": "2026-06-09T19:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T20:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064423973795094881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2041095876417122305",
+              "start": 0,
+              "username": "Yihuiam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064423973795094881",
+        "in_reply_to_user_id": "2041095876417122305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064392062796177520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yihuiam 比如？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂\n喜欢致幻剂///音乐",
+        "id": "2041095876417122305",
+        "name": "一户",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 399,
+          "like_count": 985,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 84
+        },
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T18:52:20.000Z",
+        "description": "成都全城配送主打3.3L罐子原味直发 诚信经营信誉第一\n✈️ https://t.co/xn5quN6yVS\n距离你0.01km",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Dilll888888888",
+                "end": 54,
+                "expanded_url": "https://t.me/Dilll888888888",
+                "start": 31,
+                "url": "https://t.co/xn5quN6yVS"
+              }
+            ]
+          }
+        },
+        "id": "1990493180324950019",
+        "location": "四川成都",
+        "name": "成都笑气🎈气球🎈电子🚬批发零售",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044130171012427776/Z5M9l_Fn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 9
+        },
+        "username": "chengduqiq98640",
+        "verified": false
+      }
+    ]
+  }
+}

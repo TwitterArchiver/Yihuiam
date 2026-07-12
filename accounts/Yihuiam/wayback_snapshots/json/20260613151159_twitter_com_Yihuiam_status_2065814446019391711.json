@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2065460805940936777",
+    "created_at": "2026-06-13T15:11:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T16:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065814446019391711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2015833324472991744",
+          "start": 0,
+          "username": "me_q56"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065814446019391711",
+    "in_reply_to_user_id": "2015833324472991744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065460805940936777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@me_q56 可爱呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2065460803567005696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKn9qFYasAAjein.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2065460805940936777",
+        "created_at": "2026-06-13T15:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065814446019391711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2015833324472991744",
+              "start": 0,
+              "username": "me_q56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065814446019391711",
+        "in_reply_to_user_id": "2015833324472991744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065460805940936777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@me_q56 可爱呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065460803567005696"
+          ]
+        },
+        "author_id": "2015833324472991744",
+        "conversation_id": "2065460805940936777",
+        "created_at": "2026-06-12T15:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065460805940936777"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "地雷系"
+            },
+            {
+              "end": 34,
+              "start": 28,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 50,
+              "start": 36,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 62,
+              "start": 52,
+              "tag": "地雷系と繋がりたい"
+            },
+            {
+              "end": 76,
+              "start": 64,
+              "tag": "地雷系女子と繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mDiZZiN4pR",
+              "end": 100,
+              "expanded_url": "https://x.com/me_q56/status/2065460805940936777/photo/1",
+              "media_key": "3_2065460803567005696",
+              "start": 77,
+              "url": "https://t.co/mDiZZiN4pR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065460805940936777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 641,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "0から\nお友達ください\n\n #自撮り界隈  #地雷系  #地雷系女子  #自撮り界隈さんと繋がりたい  #地雷系と繋がりたい  #地雷系女子と繋がりたい https://t.co/mDiZZiN4pR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂\n喜欢致幻剂///音乐\n我的好闺闺@RottenCrow1\n梨梨❣️ @Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 71,
+                "start": 58,
+                "username": "Hendry540558"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "name": "一户",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 496,
+          "like_count": 1515,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 137
+        },
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T17:05:05.000Z",
+        "description": "",
+        "id": "2015833324472991744",
+        "location": "北海道 12",
+        "name": "み❕",
+        "pinned_tweet_id": "2065460805940936777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064755116247502848/GBaZVOGf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 5,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 14
+        },
+        "username": "me_q56",
+        "verified": false
+      }
+    ]
+  }
+}

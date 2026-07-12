@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2063712579814560207",
+    "created_at": "2026-06-08T08:33:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T09:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063902204277501972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2042492130115919873",
+          "start": 0,
+          "username": "ccaki_lonely"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063902204277501972",
+    "in_reply_to_user_id": "2042492130115919873",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063897162317180973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccaki_lonely 私不了哇😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2063712579814560207",
+        "created_at": "2026-06-08T08:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063902204277501972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2042492130115919873",
+              "start": 0,
+              "username": "ccaki_lonely"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063902204277501972",
+        "in_reply_to_user_id": "2042492130115919873",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063897162317180973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccaki_lonely 私不了哇😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042492130115919873",
+        "conversation_id": "2063712579814560207",
+        "created_at": "2026-06-08T08:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063897162317180973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2041095876417122305",
+              "start": 0,
+              "username": "Yihuiam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063897162317180973",
+        "in_reply_to_user_id": "2041095876417122305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063856369875431765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yihuiam 私我哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂\n喜欢致幻剂///音乐",
+        "id": "2041095876417122305",
+        "name": "一户",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 379,
+          "like_count": 840,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 67
+        },
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T06:37:41.000Z",
+        "description": "",
+        "id": "2042492130115919873",
+        "name": "橙子神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062077580334059521/riFYOoei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 47,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "username": "ccaki_lonely",
+        "verified": false
+      }
+    ]
+  }
+}

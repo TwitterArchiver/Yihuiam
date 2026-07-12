@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070889612541870080"
+      ]
+    },
+    "author_id": "2041095876417122305",
+    "conversation_id": "2070889621949497603",
+    "created_at": "2026-06-27T15:18:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T16:18:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070889621949497603"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oItD66cQWf",
+          "end": 29,
+          "expanded_url": "https://x.com/Yihuiam/status/2070889621949497603/photo/1",
+          "media_key": "3_2070889612541870080",
+          "start": 6,
+          "url": "https://t.co/oItD66cQWf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070889621949497603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这素。🥺👊 https://t.co/oItD66cQWf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1218,
+        "media_key": "3_2070889612541870080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL1HIWyawAAzg4o.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070889612541870080"
+          ]
+        },
+        "author_id": "2041095876417122305",
+        "conversation_id": "2070889621949497603",
+        "created_at": "2026-06-27T15:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070889621949497603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oItD66cQWf",
+              "end": 29,
+              "expanded_url": "https://x.com/Yihuiam/status/2070889621949497603/photo/1",
+              "media_key": "3_2070889612541870080",
+              "start": 6,
+              "url": "https://t.co/oItD66cQWf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070889621949497603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这素。🥺👊 https://t.co/oItD66cQWf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂///音乐\n好闺闺@RottenCrow1\n梨梨@Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 82,
+                "start": 69,
+                "username": "Hendry540558"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL2szz"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "name": "yIhu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 722,
+          "like_count": 3353,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 233
+        },
+        "url": "https://t.co/EFwkXL2szz",
+        "username": "Yihuiam",
+        "verified": false
+      }
+    ]
+  }
+}

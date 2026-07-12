@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2063422206328336464",
+    "created_at": "2026-06-07T02:53:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T03:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063454302035935686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1229811974763974658",
+          "start": 0,
+          "username": "Aokigawa8964"
+        },
+        {
+          "end": 28,
+          "id": "2016028559228469252",
+          "start": 14,
+          "username": "Alvvaysioffy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063454302035935686",
+    "in_reply_to_user_id": "1229811974763974658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063451532620705996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aokigawa8964 @Alvvaysioffy1 ymsf会吐吗被禁之后我吃ym才会吐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2063422206328336464",
+        "created_at": "2026-06-07T02:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063454302035935686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1229811974763974658",
+              "start": 0,
+              "username": "Aokigawa8964"
+            },
+            {
+              "end": 28,
+              "id": "2016028559228469252",
+              "start": 14,
+              "username": "Alvvaysioffy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063454302035935686",
+        "in_reply_to_user_id": "1229811974763974658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063451532620705996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aokigawa8964 @Alvvaysioffy1 ymsf会吐吗被禁之后我吃ym才会吐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1229811974763974658",
+        "conversation_id": "2063422206328336464",
+        "created_at": "2026-06-07T02:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063451532620705996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2016028559228469252",
+              "start": 0,
+              "username": "Alvvaysioffy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063451532620705996",
+        "in_reply_to_user_id": "2016028559228469252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063422206328336464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alvvaysioffy1 不如od右美沙芬，这个o完真能吐，而且半个小时之内就会吐🤮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//接受所有属性/学习药理中🙂\n喜欢致幻剂/音乐",
+        "id": "2041095876417122305",
+        "name": "Yihuiam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 339,
+          "like_count": 675,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 57
+        },
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-18T16:56:55.000Z",
+        "description": "You jump , I jump.可爱的妹妹雪仙@snowfairy011026 @TamikoTomorika @toukorina 永远爱@NuclearThermal",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 25,
+                "username": "snowfairy011026"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "TamikoTomorika"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "toukorina"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "NuclearThermal"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Aokigawa",
+                "end": 23,
+                "expanded_url": "https://t.me/Aokigawa",
+                "start": 0,
+                "url": "https://t.co/hRiiUiYzxq"
+              }
+            ]
+          }
+        },
+        "id": "1229811974763974658",
+        "location": "Osaka-shi Naniwa-ku, Osaka",
+        "name": "平平无奇小机场🏳️‍⚧️",
+        "pinned_tweet_id": "1728070700613702059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777114753544208384/uAigzslA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 1102,
+          "like_count": 5700,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 5337
+        },
+        "url": "https://t.co/hRiiUiYzxq",
+        "username": "Aokigawa8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "不线下。看成分互fo👯‍♂️\n有些关注没有消息提示 所以优先回fo有互动的\n智商很低所以任何攻击都无效 认真你就输了",
+        "id": "2016028559228469252",
+        "name": "小春",
+        "pinned_tweet_id": "2058836989848547598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 168,
+          "like_count": 1016,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 701
+        },
+        "username": "Alvvaysioffy1",
+        "verified": false
+      }
+    ]
+  }
+}

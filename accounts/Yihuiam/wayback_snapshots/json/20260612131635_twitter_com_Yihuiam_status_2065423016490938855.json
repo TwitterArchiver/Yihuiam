@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065423002855264256",
+        "3_2065423002838482944",
+        "3_2065423002775527424"
+      ]
+    },
+    "author_id": "2041095876417122305",
+    "conversation_id": "2065423016490938855",
+    "created_at": "2026-06-12T13:16:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T14:16:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065423016490938855"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lcTN4l07Ox",
+          "end": 33,
+          "expanded_url": "https://x.com/Yihuiam/status/2065423016490938855/photo/1",
+          "media_key": "3_2065423002855264256",
+          "start": 10,
+          "url": "https://t.co/lcTN4l07Ox"
+        },
+        {
+          "display_url": "pic.x.com/lcTN4l07Ox",
+          "end": 33,
+          "expanded_url": "https://x.com/Yihuiam/status/2065423016490938855/photo/1",
+          "media_key": "3_2065423002838482944",
+          "start": 10,
+          "url": "https://t.co/lcTN4l07Ox"
+        },
+        {
+          "display_url": "pic.x.com/lcTN4l07Ox",
+          "end": 33,
+          "expanded_url": "https://x.com/Yihuiam/status/2065423016490938855/photo/1",
+          "media_key": "3_2065423002775527424",
+          "start": 10,
+          "url": "https://t.co/lcTN4l07Ox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065423016490938855",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这里是..天堂嘛🤤 https://t.co/lcTN4l07Ox"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2065423002855264256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnbRywb0AA_bKm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065423002838482944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnbRysbwAA-z28.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065423002775527424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnbRydbIAA2ce_.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065423002855264256",
+            "3_2065423002838482944",
+            "3_2065423002775527424"
+          ]
+        },
+        "author_id": "2041095876417122305",
+        "conversation_id": "2065423016490938855",
+        "created_at": "2026-06-12T13:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065423016490938855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lcTN4l07Ox",
+              "end": 33,
+              "expanded_url": "https://x.com/Yihuiam/status/2065423016490938855/photo/1",
+              "media_key": "3_2065423002855264256",
+              "start": 10,
+              "url": "https://t.co/lcTN4l07Ox"
+            },
+            {
+              "display_url": "pic.x.com/lcTN4l07Ox",
+              "end": 33,
+              "expanded_url": "https://x.com/Yihuiam/status/2065423016490938855/photo/1",
+              "media_key": "3_2065423002838482944",
+              "start": 10,
+              "url": "https://t.co/lcTN4l07Ox"
+            },
+            {
+              "display_url": "pic.x.com/lcTN4l07Ox",
+              "end": 33,
+              "expanded_url": "https://x.com/Yihuiam/status/2065423016490938855/photo/1",
+              "media_key": "3_2065423002775527424",
+              "start": 10,
+              "url": "https://t.co/lcTN4l07Ox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065423016490938855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这里是..天堂嘛🤤 https://t.co/lcTN4l07Ox"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂\n喜欢致幻剂///音乐",
+        "id": "2041095876417122305",
+        "name": "一户",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 471,
+          "like_count": 1364,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 116
+        },
+        "username": "Yihuiam",
+        "verified": false
+      }
+    ]
+  }
+}

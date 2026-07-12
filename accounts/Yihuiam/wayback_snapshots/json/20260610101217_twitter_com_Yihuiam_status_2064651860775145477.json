@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064425307751448576"
+      ],
+      "media_source_tweet_id": [
+        "2064425653596987788"
+      ]
+    },
+    "author_id": "2041095876417122305",
+    "conversation_id": "2064651860775145477",
+    "created_at": "2026-06-10T10:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T11:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064651860775145477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2042492130115919873",
+          "start": 3,
+          "username": "ccaki_lonely"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K2XFcNGcMI",
+          "end": 124,
+          "expanded_url": "https://x.com/ccaki_lonely/status/2064425653596987788/photo/1",
+          "media_key": "3_2064425307751448576",
+          "start": 101,
+          "url": "https://t.co/K2XFcNGcMI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064651860775145477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064425653596987788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ccaki_lonely: 橙子的新q群 群体主要是一些wiki的编辑和我的港美客户 \n橙子会在群里提供免费的药物咨询 无所不知无所不晓 只为帮到如今普瑞小美都被🈲的情况下 在药圈迷茫苦索的你 https://t.co/K2XFcNGcMI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2740,
+        "media_key": "3_2064425307751448576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKZP4S3aAAAW0KE.jpg",
+        "width": 1541
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064425307751448576"
+          ],
+          "media_source_tweet_id": [
+            "2064425653596987788"
+          ]
+        },
+        "author_id": "2041095876417122305",
+        "conversation_id": "2064651860775145477",
+        "created_at": "2026-06-10T10:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064651860775145477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2042492130115919873",
+              "start": 3,
+              "username": "ccaki_lonely"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K2XFcNGcMI",
+              "end": 124,
+              "expanded_url": "https://x.com/ccaki_lonely/status/2064425653596987788/photo/1",
+              "media_key": "3_2064425307751448576",
+              "start": 101,
+              "url": "https://t.co/K2XFcNGcMI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064651860775145477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064425653596987788",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ccaki_lonely: 橙子的新q群 群体主要是一些wiki的编辑和我的港美客户 \n橙子会在群里提供免费的药物咨询 无所不知无所不晓 只为帮到如今普瑞小美都被🈲的情况下 在药圈迷茫苦索的你 https://t.co/K2XFcNGcMI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064425307751448576"
+          ]
+        },
+        "author_id": "2042492130115919873",
+        "conversation_id": "2064425653596987788",
+        "created_at": "2026-06-09T19:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T20:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064425653596987788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K2XFcNGcMI",
+              "end": 106,
+              "expanded_url": "https://x.com/ccaki_lonely/status/2064425653596987788/photo/1",
+              "media_key": "3_2064425307751448576",
+              "start": 83,
+              "url": "https://t.co/K2XFcNGcMI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064425653596987788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "橙子的新q群 群体主要是一些wiki的编辑和我的港美客户 \n橙子会在群里提供免费的药物咨询 无所不知无所不晓 只为帮到如今普瑞小美都被🈲的情况下 在药圈迷茫苦索的你 https://t.co/K2XFcNGcMI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂\n喜欢致幻剂///音乐",
+        "id": "2041095876417122305",
+        "name": "一户",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 414,
+          "like_count": 1056,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 91
+        },
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T06:37:41.000Z",
+        "description": "LGBT gay饰演者 边缘超8cult片导演|爱癌晚期|港版右美唯一药商|二型bpd患者",
+        "id": "2042492130115919873",
+        "name": "橙子神",
+        "pinned_tweet_id": "2064425653596987788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062077580334059521/riFYOoei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 59,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 29
+        },
+        "username": "ccaki_lonely",
+        "verified": false
+      }
+    ]
+  }
+}

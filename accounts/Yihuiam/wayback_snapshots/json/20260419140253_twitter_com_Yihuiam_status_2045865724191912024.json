@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2043406763349680516",
+    "created_at": "2026-04-19T14:02:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T15:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045865724191912024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1313981468",
+          "start": 0,
+          "username": "DorkSirjur"
+        },
+        {
+          "end": 25,
+          "id": "20756169",
+          "start": 12,
+          "username": "richiehawtin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045865724191912024",
+    "in_reply_to_user_id": "1313981468",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043406763349680516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DorkSirjur @richiehawtin wow"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14042201,
+        "height": 960,
+        "media_key": "13_2043404193453461505",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043404193453461505/img/B8Ru_rHCKZgsuU1S.jpg",
+        "public_metrics": {
+          "view_count": 4988
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043404193453461505/vid/avc1/480x360/ZtuYnX7Hkn1GqDc7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043404193453461505/vid/avc1/960x720/R0xcP5rfsCqZB8Wc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043404193453461505/pl/xpz8aDT62DPKY8MK.m3u8?v=27e"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043404193453461505/vid/avc1/1280x960/dm_DczSObJQKMvSq.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043404193453461505/vid/avc1/360x270/h9kCXfp0--dZ90XC.mp4"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2043406763349680516",
+        "created_at": "2026-04-19T14:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045865724191912024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1313981468",
+              "start": 0,
+              "username": "DorkSirjur"
+            },
+            {
+              "end": 25,
+              "id": "20756169",
+              "start": 12,
+              "username": "richiehawtin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045865724191912024",
+        "in_reply_to_user_id": "1313981468",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043406763349680516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DorkSirjur @richiehawtin wow"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043404193453461505"
+          ]
+        },
+        "author_id": "1313981468",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Electronic",
+              "id": "849684313704611840",
+              "name": "Electronic music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1254827518281920512",
+              "name": "Techno"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1285999703704743938",
+              "name": "Dance & electronic"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Electronic",
+              "id": "849684313704611840",
+              "name": "Electronic music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1254827518281920512",
+              "name": "Techno"
+            }
+          }
+        ],
+        "conversation_id": "2043406763349680516",
+        "created_at": "2026-04-12T19:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T20:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043406763349680516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 133,
+              "id": "20756169",
+              "start": 120,
+              "username": "richiehawtin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QFMjIdGP3l",
+              "end": 299,
+              "expanded_url": "https://x.com/DorkSirjur/status/2043406763349680516/video/1",
+              "media_key": "13_2043404193453461505",
+              "start": 276,
+              "url": "https://t.co/QFMjIdGP3l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043406763349680516",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 133,
+                "id": "20756169",
+                "start": 120,
+                "username": "richiehawtin"
+              }
+            ]
+          },
+          "text": "Final mix for today, its another near four hour banger from a techno great, 24 years ago at a legendary venue:\n\nThis is @richiehawtin @ Pressure, The Arches, Glasgow 21.11.02\n\nJust relentless, glorious techno from one of the best to ever do it. There's a sparse tracklist out there which I'll post, but a lot of gaps!\n\nMixes on Kofi shortly, bless up 👇🔥👇"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 12583,
+          "like_count": 212,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "Final mix for today, its another near four hour banger from a techno great, 24 years ago at a legendary venue:\n\nThis is @richiehawtin @ Pressure, The Arches, Glasgow 21.11.02\n\nJust relentless, glorious techno from one of the best to ever do it. There's a sparse tracklist out https://t.co/QFMjIdGP3l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "",
+        "id": "2041095876417122305",
+        "name": "Yihuiam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-29T14:20:07.000Z",
+        "description": "Mancunian. Rave archivist. Sharing clips, sets and packs for the worldwide ravers.\n\nIf you want to support with hosting costs - https://t.co/gr44UNVLVA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/dorksirjur",
+                "end": 151,
+                "expanded_url": "https://ko-fi.com/dorksirjur",
+                "start": 128,
+                "url": "https://t.co/gr44UNVLVA"
+              }
+            ]
+          }
+        },
+        "id": "1313981468",
+        "location": "Manchester, UK",
+        "name": "DS",
+        "pinned_tweet_id": "2045597312882270268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715503674611404800/8jGyfgf2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18849,
+          "following_count": 770,
+          "like_count": 14821,
+          "listed_count": 71,
+          "media_count": 4191,
+          "tweet_count": 12643
+        },
+        "username": "DorkSirjur",
+        "verified": true
+      },
+      {
+        "created_at": "2009-02-13T08:15:14.000Z",
+        "description": "aka @plastikmanlive\nPAST, PRESENT, FUTURE - HAWTIN MEDIA CHANNEL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "plastikmanlive"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/richiehawtin",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/richiehawtin",
+                "start": 0,
+                "url": "https://t.co/0OH1u6yExV"
+              }
+            ]
+          }
+        },
+        "id": "20756169",
+        "location": "47.452747,8.555665",
+        "name": "richiehawtin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917969066582556672/bP5HF-PS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449183,
+          "following_count": 205,
+          "like_count": 2260,
+          "listed_count": 3270,
+          "media_count": 642,
+          "tweet_count": 13128
+        },
+        "url": "https://t.co/0OH1u6yExV",
+        "username": "richiehawtin",
+        "verified": false
+      }
+    ]
+  }
+}

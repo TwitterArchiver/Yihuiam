@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065412802232373248"
+      ]
+    },
+    "author_id": "2041095876417122305",
+    "conversation_id": "2065366786745458767",
+    "created_at": "2026-06-12T12:36:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T13:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065412810746769914"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fvdxqevsH1",
+          "end": 39,
+          "expanded_url": "https://x.com/Yihuiam/status/2065412810746769914/photo/1",
+          "media_key": "3_2065412802232373248",
+          "start": 16,
+          "url": "https://t.co/fvdxqevsH1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065412810746769914",
+    "in_reply_to_user_id": "2041095876417122305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065366786745458767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好舒服…抽根烟更舒服了awa🤤 https://t.co/fvdxqevsH1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065412802232373248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnSACea0AAFOqC.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065366769771184128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmoImMbgAAN6JO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065412802232373248"
+          ]
+        },
+        "author_id": "2041095876417122305",
+        "conversation_id": "2065366786745458767",
+        "created_at": "2026-06-12T12:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065412810746769914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fvdxqevsH1",
+              "end": 39,
+              "expanded_url": "https://x.com/Yihuiam/status/2065412810746769914/photo/1",
+              "media_key": "3_2065412802232373248",
+              "start": 16,
+              "url": "https://t.co/fvdxqevsH1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065412810746769914",
+        "in_reply_to_user_id": "2041095876417122305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065366786745458767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好舒服…抽根烟更舒服了awa🤤 https://t.co/fvdxqevsH1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065366769771184128"
+          ]
+        },
+        "author_id": "2041095876417122305",
+        "conversation_id": "2065366786745458767",
+        "created_at": "2026-06-12T09:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065366786745458767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0roOcQCIXP",
+              "end": 37,
+              "expanded_url": "https://x.com/Yihuiam/status/2065366786745458767/photo/1",
+              "media_key": "3_2065366769771184128",
+              "start": 14,
+              "url": "https://t.co/0roOcQCIXP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065366786745458767",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 465,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同学送的pr 配巴氯芬吃😋 https://t.co/0roOcQCIXP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂\n喜欢致幻剂///音乐",
+        "id": "2041095876417122305",
+        "name": "一户",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 470,
+          "like_count": 1352,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 113
+        },
+        "username": "Yihuiam",
+        "verified": false
+      }
+    ]
+  }
+}

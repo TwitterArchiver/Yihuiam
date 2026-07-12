@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2061208535996998124",
+    "created_at": "2026-06-02T20:44:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T21:44:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061911834077352352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2021835890515996672",
+          "start": 0,
+          "username": "prezhdevr396846"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061911834077352352",
+    "in_reply_to_user_id": "2021835890515996672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061208535996998124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@prezhdevr396846 要找引荐的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2061208535996998124",
+        "created_at": "2026-06-02T20:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T21:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061911834077352352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2021835890515996672",
+              "start": 0,
+              "username": "prezhdevr396846"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061911834077352352",
+        "in_reply_to_user_id": "2021835890515996672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061208535996998124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@prezhdevr396846 要找引荐的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021835890515996672",
+        "conversation_id": "2061208535996998124",
+        "created_at": "2026-05-31T22:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T23:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061208535996998124"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061208535996998124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我需要雪尘的购买渠道…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//接受所有属性/学习药理中🙂\n喜欢致幻剂",
+        "id": "2041095876417122305",
+        "name": "Yihuiam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 202,
+          "like_count": 375,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 37
+        },
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-12T06:37:07.000Z",
+        "description": "我是小囚囚呀",
+        "id": "2021835890515996672",
+        "name": "prezhdevr3m3nnymemOri",
+        "pinned_tweet_id": "2061216418096718091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023174469783814144/G732cEdO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 30,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 29
+        },
+        "username": "prezhdevr396846",
+        "verified": false
+      }
+    ]
+  }
+}

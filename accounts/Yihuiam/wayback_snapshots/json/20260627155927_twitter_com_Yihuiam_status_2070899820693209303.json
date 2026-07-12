@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2070837913605050633",
+    "created_at": "2026-06-27T15:59:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T16:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070899820693209303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1684033615926263810",
+          "start": 0,
+          "username": "c66pugl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070899820693209303",
+    "in_reply_to_user_id": "1684033615926263810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070899259348836368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c66pugl 记得转帖喵。🥺👊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2070837913605050633",
+        "created_at": "2026-06-27T15:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070899820693209303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1684033615926263810",
+              "start": 0,
+              "username": "c66pugl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070899820693209303",
+        "in_reply_to_user_id": "1684033615926263810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070899259348836368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c66pugl 记得转帖喵。🥺👊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684033615926263810",
+        "conversation_id": "2070837913605050633",
+        "created_at": "2026-06-27T15:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070899259348836368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2041095876417122305",
+              "start": 0,
+              "username": "Yihuiam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070899259348836368",
+        "in_reply_to_user_id": "2041095876417122305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070837913605050633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yihuiam 来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂///音乐\n好闺闺@RottenCrow1\n梨梨@Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 82,
+                "start": 69,
+                "username": "Hendry540558"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL2szz"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "name": "yIhu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 725,
+          "like_count": 3389,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 240
+        },
+        "url": "https://t.co/EFwkXL2szz",
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T02:51:33.000Z",
+        "description": "420/acid/med/stem\n碎碎念；爱较真；",
+        "id": "1684033615926263810",
+        "name": "c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062366495796264960/VRTbk0Zg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 40,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "c66pugl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063116250251997184"
+      ]
+    },
+    "author_id": "2041095876417122305",
+    "conversation_id": "2063116262390329675",
+    "created_at": "2026-06-06T04:30:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T05:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063116262390329675"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qEKleZ00VW",
+          "end": 37,
+          "expanded_url": "https://x.com/Yihuiam/status/2063116262390329675/photo/1",
+          "media_key": "3_2063116250251997184",
+          "start": 14,
+          "url": "https://t.co/qEKleZ00VW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063116262390329675",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个跟公路旅行的版本好像🧐 https://t.co/qEKleZ00VW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063116250251997184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKGpTHqbMAANvmx.jpg",
+        "width": 985
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063116250251997184"
+          ]
+        },
+        "author_id": "2041095876417122305",
+        "conversation_id": "2063116262390329675",
+        "created_at": "2026-06-06T04:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063116262390329675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qEKleZ00VW",
+              "end": 37,
+              "expanded_url": "https://x.com/Yihuiam/status/2063116262390329675/photo/1",
+              "media_key": "3_2063116250251997184",
+              "start": 14,
+              "url": "https://t.co/qEKleZ00VW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063116262390329675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个跟公路旅行的版本好像🧐 https://t.co/qEKleZ00VW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//接受所有属性/学习药理中🙂\n喜欢致幻剂/音乐",
+        "id": "2041095876417122305",
+        "name": "Yihuiam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 267,
+          "like_count": 530,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 52
+        },
+        "username": "Yihuiam",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2065920077816590360",
+    "created_at": "2026-06-15T05:08:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T06:08:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066387464328192474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1277252311757144067",
+          "start": 0,
+          "username": "CLEVOCO"
+        },
+        {
+          "end": 19,
+          "id": "1662293107738640384",
+          "start": 9,
+          "username": "SHUGE0731"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066387464328192474",
+    "in_reply_to_user_id": "2041095876417122305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066387421076611435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CLEVOCO @SHUGE0731 奋在时间窗和机制上存在拉扯扑尔敏的抗胆碱能成分更可能在早期突破部分抑制露出谵妄而想要达到苯巴比妥或者硝西泮的常见滥用剂量出现谵妄的风险还会大大增加"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2065920077816590360",
+        "created_at": "2026-06-15T05:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066387464328192474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1277252311757144067",
+              "start": 0,
+              "username": "CLEVOCO"
+            },
+            {
+              "end": 19,
+              "id": "1662293107738640384",
+              "start": 9,
+              "username": "SHUGE0731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066387464328192474",
+        "in_reply_to_user_id": "2041095876417122305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066387421076611435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CLEVOCO @SHUGE0731 奋在时间窗和机制上存在拉扯扑尔敏的抗胆碱能成分更可能在早期突破部分抑制露出谵妄而想要达到苯巴比妥或者硝西泮的常见滥用剂量出现谵妄的风险还会大大增加"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2065920077816590360",
+        "created_at": "2026-06-15T05:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066387421076611435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1277252311757144067",
+              "start": 0,
+              "username": "CLEVOCO"
+            },
+            {
+              "end": 19,
+              "id": "1662293107738640384",
+              "start": 9,
+              "username": "SHUGE0731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066387421076611435",
+        "in_reply_to_user_id": "2041095876417122305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066387230713925647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CLEVOCO @SHUGE0731 皮层兴奋/紊乱信号，被阿片类对RAS的抑制压下去了 所以并非扑尔敏没有产生谵妄作用而是被阿片类抑制剂掩盖了，而复方苯硝那敏片里其实也有抑制剂组合而且是纯抑制剂组合bzd+苯巴比妥但这两个抑制剂都是以GABA能通路为主的弥散性抑制对ras的抑制不如阿片抑制强烈加上扑尔敏自身的H₁镇静与抗胆碱能兴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂///音乐\n好闺闺@RottenCrow1\n梨梨@Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 82,
+                "start": 69,
+                "username": "Hendry540558"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "name": "一户",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 523,
+          "like_count": 1593,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 148
+        },
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-28T14:47:43.000Z",
+        "description": "",
+        "id": "1277252311757144067",
+        "location": "Kansai, Hyogo",
+        "name": "反射消失",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965015387537539072/w7g3kj92_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 102,
+          "like_count": 1194,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 4031
+        },
+        "username": "CLEVOCO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031 ｜ 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "Dorcus10031"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sccs49966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sccs49966",
+                "start": 0,
+                "url": "https://t.co/ApKveTtCZA"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 1158,
+          "like_count": 31260,
+          "listed_count": 4,
+          "media_count": 700,
+          "tweet_count": 10629
+        },
+        "url": "https://t.co/ApKveTtCZA",
+        "username": "SHUGE0731",
+        "verified": false
+      }
+    ]
+  }
+}

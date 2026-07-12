@@ -1,0 +1,477 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1472005481069637632",
+          "name": "INI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1683514315146420225",
+          "name": "X - the everything app"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1472005481069637632",
+          "name": "INI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1472005481069637632",
+          "name": "INI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2065485873832226920",
+    "created_at": "2026-06-12T17:26:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T18:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065485873832226920"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fireonwish_/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/fireonwish_/status/2060919488825188385",
+          "start": 14,
+          "url": "https://t.co/7cnza4d0aC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065485873832226920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060919488825188385",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我被ghost ban了🥲 https://t.co/7cnza4d0aC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1472005481069637632",
+              "name": "INI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1472005481069637632",
+              "name": "INI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1472005481069637632",
+              "name": "INI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2065485873832226920",
+        "created_at": "2026-06-12T17:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065485873832226920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fireonwish_/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/fireonwish_/status/2060919488825188385",
+              "start": 14,
+              "url": "https://t.co/7cnza4d0aC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065485873832226920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060919488825188385",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我被ghost ban了🥲 https://t.co/7cnza4d0aC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "705085075998711808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2060919488825188385",
+        "created_at": "2026-05-31T03:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T04:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060919488825188385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Are you shadowbanned on Twitter?",
+              "display_url": "shadowban.yuzurisa.com",
+              "end": 187,
+              "expanded_url": "http://shadowban.yuzurisa.com",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2064944357086756864/Z6V8ggsH?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2064944357086756864/Z6V8ggsH?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 164,
+              "status": 200,
+              "title": "Twitter Shadowban Test",
+              "unwound_url": "https://shadowban.yuzurisa.com/",
+              "url": "https://t.co/qFxKJ7gbZw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060919488825188385",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "shadowban.yuzurisa.com",
+                "end": 187,
+                "expanded_url": "http://shadowban.yuzurisa.com",
+                "start": 164,
+                "url": "https://t.co/6qNnFwYXhs"
+              }
+            ]
+          },
+          "text": "CARA MENGHILANGKAN SHADOWBAN / GHOSTBAN DI X (TWITTER)\n\nRT postingan ini supaya lebih banyak orang yang mengalami masalah yang sama bisa terbantu! 🙌\n\n1. Buka situs https://t.co/6qNnFwYXhs lalu masukkan username akun X/Twitter kamu.\n\n2. Klik menu \"Ghost Ban\".\n\n3. Di bawah hasilnya, cari dan klik \"TECHNICAL INFORMATION ABOUT THE RESULT\".\n\n4. Contoh jika muncul pesan:\n\"We found a tweet with at least one reply on the user's profile. A reply tweet is detached.\"\nKlik tulisan \"reply tweet\" yang bisa diklik. Kamu akan langsung diarahkan ke tweet yang dianggap bermasalah.\n\n5. Hapus tweet tersebut. Shadowban sudah bisa hapus reply spam,  \nhapus post yang bikin akunmu kena paused/suspend/shadowban. \n\n6. Tunggu sekitar 1 jam, lalu cek lagi dari langkah pertama.\n\n7. Jika akunmu masih terkena ghost ban, jangan panik. Ulangi langkah-langkah di atas. Setiap kali dicek, situs bisa saja menunjukkan tweet bermasalah yang berbeda untuk dihapus.\n\n8. Terus lakukan sampai semua indikator di situs berubah menjadi hijau.\n\nNote :\n1. Kadang cukup menghapus 1 tweet saja, tetapi ada juga yang harus menghapus beberapa tweet.\n\n2. Selama masih terkena shadowban/ghost ban, jangan membuat tweet baru, jangan repost (RT), jangan memberi like, dan jangan follow atau unfollow akun lain. Biarkan akunmu \"istirahat\" sementara waktu.\n\nKalau cara ini berhasil, jangan lupa share and comment 🫶🏻"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 270,
+          "impression_count": 21785,
+          "like_count": 74,
+          "quote_count": 8,
+          "reply_count": 4,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "CARA MENGHILANGKAN SHADOWBAN / GHOSTBAN DI X (TWITTER)\n\nRT postingan ini supaya lebih banyak orang yang mengalami masalah yang sama bisa terbantu! 🙌\n\n1. Buka situs https://t.co/qFxKJ7gbZw lalu masukkan username akun X/Twitter kamu.\n\n2. Klik menu \"Ghost Ban\".\n\n3. Di bawah"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂\n喜欢致幻剂///音乐\n我的好闺闺@RottenCrow1\n梨梨❣️ @Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 71,
+                "start": 58,
+                "username": "Hendry540558"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "name": "一户",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 478,
+          "like_count": 1384,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 124
+        },
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-02T17:39:16.000Z",
+        "description": "my x my rules, so shut up 😘🤫\nhomophobic dni \n\nproof jaswar / jastip https://t.co/61e9CeMKjq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/fireonwish_/st…",
+                "end": 91,
+                "expanded_url": "https://x.com/fireonwish_/status/1933073921827586185?s=46",
+                "start": 68,
+                "url": "https://t.co/61e9CeMKjq"
+              }
+            ]
+          }
+        },
+        "id": "705085075998711808",
+        "location": "Nomin I Mahae",
+        "name": "cheese 💜",
+        "pinned_tweet_id": "2060919488825188385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800364767045095424/XF-ivf37_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 2632,
+          "like_count": 100128,
+          "listed_count": 1,
+          "media_count": 4244,
+          "tweet_count": 59259
+        },
+        "username": "fireonwish_",
+        "verified": true
+      }
+    ]
+  }
+}

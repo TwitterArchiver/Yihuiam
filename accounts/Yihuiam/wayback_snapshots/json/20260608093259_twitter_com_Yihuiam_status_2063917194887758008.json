@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2063917194887758008",
+    "created_at": "2026-06-08T09:32:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T10:32:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063917194887758008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1558757725797986305",
+          "start": 3,
+          "username": "Hemlock_113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063917194887758008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063871577591275690",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hemlock_113: 哇塞快200fo了 我也搞个抽奖好了\n想跟多点宝宝互fo( *｀ω´)\n\n一等：盐野义一盒\n二等：橙普一盒\n三等：52的红包\n\n6.16开\n点赞关注转发评论参与\n会查成分 不od的只能折现52的红包了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2063917194887758008",
+        "created_at": "2026-06-08T09:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063917194887758008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1558757725797986305",
+              "start": 3,
+              "username": "Hemlock_113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063917194887758008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063871577591275690",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hemlock_113: 哇塞快200fo了 我也搞个抽奖好了\n想跟多点宝宝互fo( *｀ω´)\n\n一等：盐野义一盒\n二等：橙普一盒\n三等：52的红包\n\n6.16开\n点赞关注转发评论参与\n会查成分 不od的只能折现52的红包了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558757725797986305",
+        "conversation_id": "2063871577591275690",
+        "created_at": "2026-06-08T06:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063871577591275690"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063871577591275690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 697,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "哇塞快200fo了 我也搞个抽奖好了\n想跟多点宝宝互fo( *｀ω´)\n\n一等：盐野义一盒\n二等：橙普一盒\n三等：52的红包\n\n6.16开\n点赞关注转发评论参与\n会查成分 不od的只能折现52的红包了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂\n喜欢致幻剂///音乐",
+        "id": "2041095876417122305",
+        "name": "一户",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 382,
+          "like_count": 841,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 68
+        },
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T10:09:46.000Z",
+        "description": "HK 10 单机小透明\nod｜自伤｜碎碎念｜小作文\n社恐 低情商 查成分互fo",
+        "id": "1558757725797986305",
+        "location": "🚪52/88/188/520",
+        "name": "凝檬_☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052171541077704704/sPryY9_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 61,
+          "like_count": 566,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 624
+        },
+        "username": "Hemlock_113",
+        "verified": false
+      }
+    ]
+  }
+}

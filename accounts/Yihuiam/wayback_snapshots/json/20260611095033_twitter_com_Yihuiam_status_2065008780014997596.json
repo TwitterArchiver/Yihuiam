@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065008770842046464",
+        "3_2065008770825236480"
+      ]
+    },
+    "author_id": "2041095876417122305",
+    "conversation_id": "2065008780014997596",
+    "created_at": "2026-06-11T09:50:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T10:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065008780014997596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 28,
+          "id": "1684269091849404416",
+          "start": 12,
+          "username": "1212s1212bs1242"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/076VPnExBc",
+          "end": 52,
+          "expanded_url": "https://x.com/Yihuiam/status/2065008780014997596/photo/1",
+          "media_key": "3_2065008770842046464",
+          "start": 29,
+          "url": "https://t.co/076VPnExBc"
+        },
+        {
+          "display_url": "pic.x.com/076VPnExBc",
+          "end": 52,
+          "expanded_url": "https://x.com/Yihuiam/status/2065008780014997596/photo/1",
+          "media_key": "3_2065008770825236480",
+          "start": 29,
+          "url": "https://t.co/076VPnExBc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065008780014997596",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "太美味了😭😭😭支持12呀@1212s1212bs1242 https://t.co/076VPnExBc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065008770842046464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhiiUQbMAAkfHp.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065008770825236480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhiiUMasAAlsxA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065008770842046464",
+            "3_2065008770825236480"
+          ]
+        },
+        "author_id": "2041095876417122305",
+        "conversation_id": "2065008780014997596",
+        "created_at": "2026-06-11T09:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T10:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065008780014997596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1684269091849404416",
+              "start": 12,
+              "username": "1212s1212bs1242"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/076VPnExBc",
+              "end": 52,
+              "expanded_url": "https://x.com/Yihuiam/status/2065008780014997596/photo/1",
+              "media_key": "3_2065008770842046464",
+              "start": 29,
+              "url": "https://t.co/076VPnExBc"
+            },
+            {
+              "display_url": "pic.x.com/076VPnExBc",
+              "end": 52,
+              "expanded_url": "https://x.com/Yihuiam/status/2065008780014997596/photo/1",
+              "media_key": "3_2065008770825236480",
+              "start": 29,
+              "url": "https://t.co/076VPnExBc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065008780014997596",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太美味了😭😭😭支持12呀@1212s1212bs1242 https://t.co/076VPnExBc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂\n喜欢致幻剂///音乐",
+        "id": "2041095876417122305",
+        "name": "一户",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 459,
+          "like_count": 1227,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 98
+        },
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "烟袋，欢迎咨询。复活的亡灵，查成分互fo/大陆哲学爱好，最近想了解一下古典经济学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2064598365963464812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 892,
+          "like_count": 17562,
+          "listed_count": 1,
+          "media_count": 821,
+          "tweet_count": 9905
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

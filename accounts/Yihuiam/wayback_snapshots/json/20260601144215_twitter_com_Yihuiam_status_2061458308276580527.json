@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2061077020294226059",
+    "created_at": "2026-06-01T14:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T15:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061458308276580527"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061458308276580527",
+    "in_reply_to_user_id": "2041095876417122305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061077020294226059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "2.5ml四十分钟后头晕头痛恶心呕吐疯狂吐胃酸一点快感没有太恶心了一点娱乐价值都没有🤮🤮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061077010236190720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpqnunaMAAL2-Z.jpg",
+        "width": 1659
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2061077020294226059",
+        "created_at": "2026-06-01T14:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T15:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061458308276580527"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061458308276580527",
+        "in_reply_to_user_id": "2041095876417122305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061077020294226059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2.5ml四十分钟后头晕头痛恶心呕吐疯狂吐胃酸一点快感没有太恶心了一点娱乐价值都没有🤮🤮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061077010236190720"
+          ]
+        },
+        "author_id": "2041095876417122305",
+        "conversation_id": "2061077020294226059",
+        "created_at": "2026-05-31T13:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061077020294226059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vcn8JZPOEx",
+              "end": 57,
+              "expanded_url": "https://x.com/Yihuiam/status/2061077020294226059/photo/1",
+              "media_key": "3_2061077010236190720",
+              "start": 34,
+              "url": "https://t.co/Vcn8JZPOEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061077020294226059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尝试BDO了 （严格控制剂量中因为很多人玩这个出事了一点都不敢吃多 https://t.co/Vcn8JZPOEx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//我不是晶 新手号带我玩呀我接受所有属性/学习药理中🙂\n喜欢致幻剂",
+        "id": "2041095876417122305",
+        "name": "Yihuiam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 162,
+          "like_count": 298,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 26
+        },
+        "username": "Yihuiam",
+        "verified": false
+      }
+    ]
+  }
+}

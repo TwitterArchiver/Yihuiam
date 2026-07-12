@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2024820453798506667",
+    "created_at": "2026-05-24T12:01:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T13:01:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058518735170978137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1990814524556128256",
+          "start": 0,
+          "username": "angle71766"
+        },
+        {
+          "end": 21,
+          "id": "1952813819010650112",
+          "start": 12,
+          "username": "nek9kuro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058518735170978137",
+    "in_reply_to_user_id": "1990814524556128256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024878842779992377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angle71766 @nek9kuro 我的初绷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2024820453798506667",
+        "created_at": "2026-05-24T12:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058518735170978137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990814524556128256",
+              "start": 0,
+              "username": "angle71766"
+            },
+            {
+              "end": 21,
+              "id": "1952813819010650112",
+              "start": 12,
+              "username": "nek9kuro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058518735170978137",
+        "in_reply_to_user_id": "1990814524556128256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024878842779992377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angle71766 @nek9kuro 我的初绷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2024820453798506667",
+        "created_at": "2026-02-20T16:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T17:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024878842779992377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1952813819010650112",
+              "start": 0,
+              "username": "nek9kuro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024878842779992377",
+        "in_reply_to_user_id": "1952813819010650112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7396,
+          "like_count": 39,
+          "quote_count": 4,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024871612437438527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nek9kuro 它卖的的假lsd吃完直接螺旋喷射呕吐 紧接全身无力且眩晕，想体验它的假货什么感觉可以钻进洗衣机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/我不是晶 新手号带我玩呀我接受所有属性/喜欢药理🙂",
+        "id": "2041095876417122305",
+        "name": "Yihuiam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 31,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "08/顺直女/已戒o不割/❤️林檎🍎/回礼貌私信，我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1876,
+          "following_count": 154,
+          "like_count": 276,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 411
+        },
+        "username": "angle71766",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-05T19:28:07.000Z",
+        "description": "",
+        "id": "1952813819010650112",
+        "name": "♆ʚ kuro✟nek9 ɞ↝꙳",
+        "pinned_tweet_id": "2050928276856774664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982824964270002176/AwyawagF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 77,
+          "like_count": 1008,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 806
+        },
+        "username": "nek9kuro",
+        "verified": false
+      }
+    ]
+  }
+}

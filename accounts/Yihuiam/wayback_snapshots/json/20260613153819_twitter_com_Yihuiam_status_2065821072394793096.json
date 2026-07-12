@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065821057731493888",
+        "3_2065821057714634752",
+        "3_2065821057710448641",
+        "3_2065821057735667712"
+      ]
+    },
+    "author_id": "2041095876417122305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2065821072394793096",
+    "created_at": "2026-06-13T15:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T16:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065821072394793096"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vyk0CbUSot",
+          "end": 23,
+          "expanded_url": "https://x.com/Yihuiam/status/2065821072394793096/photo/1",
+          "media_key": "3_2065821057731493888",
+          "start": 0,
+          "url": "https://t.co/Vyk0CbUSot"
+        },
+        {
+          "display_url": "pic.x.com/Vyk0CbUSot",
+          "end": 23,
+          "expanded_url": "https://x.com/Yihuiam/status/2065821072394793096/photo/1",
+          "media_key": "3_2065821057714634752",
+          "start": 0,
+          "url": "https://t.co/Vyk0CbUSot"
+        },
+        {
+          "display_url": "pic.x.com/Vyk0CbUSot",
+          "end": 23,
+          "expanded_url": "https://x.com/Yihuiam/status/2065821072394793096/photo/1",
+          "media_key": "3_2065821057710448641",
+          "start": 0,
+          "url": "https://t.co/Vyk0CbUSot"
+        },
+        {
+          "display_url": "pic.x.com/Vyk0CbUSot",
+          "end": 23,
+          "expanded_url": "https://x.com/Yihuiam/status/2065821072394793096/photo/1",
+          "media_key": "3_2065821057735667712",
+          "start": 0,
+          "url": "https://t.co/Vyk0CbUSot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065821072394793096",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Vyk0CbUSot"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2065821057731493888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKtFToubgAAnFAG.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1671,
+        "media_key": "3_2065821057714634752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKtFToqaQAAqhek.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1781,
+        "media_key": "3_2065821057710448641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKtFTopaYAE5jXq.jpg",
+        "width": 1284
+      },
+      {
+        "height": 914,
+        "media_key": "3_2065821057735667712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKtFTovbMAAdtSw.jpg",
+        "width": 1001
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065821057731493888",
+            "3_2065821057714634752",
+            "3_2065821057710448641",
+            "3_2065821057735667712"
+          ]
+        },
+        "author_id": "2041095876417122305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065821072394793096",
+        "created_at": "2026-06-13T15:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065821072394793096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vyk0CbUSot",
+              "end": 23,
+              "expanded_url": "https://x.com/Yihuiam/status/2065821072394793096/photo/1",
+              "media_key": "3_2065821057731493888",
+              "start": 0,
+              "url": "https://t.co/Vyk0CbUSot"
+            },
+            {
+              "display_url": "pic.x.com/Vyk0CbUSot",
+              "end": 23,
+              "expanded_url": "https://x.com/Yihuiam/status/2065821072394793096/photo/1",
+              "media_key": "3_2065821057714634752",
+              "start": 0,
+              "url": "https://t.co/Vyk0CbUSot"
+            },
+            {
+              "display_url": "pic.x.com/Vyk0CbUSot",
+              "end": 23,
+              "expanded_url": "https://x.com/Yihuiam/status/2065821072394793096/photo/1",
+              "media_key": "3_2065821057710448641",
+              "start": 0,
+              "url": "https://t.co/Vyk0CbUSot"
+            },
+            {
+              "display_url": "pic.x.com/Vyk0CbUSot",
+              "end": 23,
+              "expanded_url": "https://x.com/Yihuiam/status/2065821072394793096/photo/1",
+              "media_key": "3_2065821057735667712",
+              "start": 0,
+              "url": "https://t.co/Vyk0CbUSot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065821072394793096",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Vyk0CbUSot"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂\n喜欢致幻剂///音乐\n我的好闺闺@RottenCrow1\n梨梨❣️ @Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 71,
+                "start": 58,
+                "username": "Hendry540558"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "name": "一户",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 496,
+          "like_count": 1524,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 138
+        },
+        "username": "Yihuiam",
+        "verified": false
+      }
+    ]
+  }
+}

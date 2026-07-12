@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2069760411067683228",
+    "created_at": "2026-06-24T18:53:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T19:53:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069856467201790310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2066343787933368321",
+          "start": 0,
+          "username": "ccaki__lonely"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069856467201790310",
+    "in_reply_to_user_id": "2066343787933368321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069852373120647514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccaki__lonely 可以可以我过几天买一个试试🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2069760411067683228",
+        "created_at": "2026-06-24T18:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T19:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069856467201790310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2066343787933368321",
+              "start": 0,
+              "username": "ccaki__lonely"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069856467201790310",
+        "in_reply_to_user_id": "2066343787933368321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069852373120647514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccaki__lonely 可以可以我过几天买一个试试🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066343787933368321",
+        "conversation_id": "2069760411067683228",
+        "created_at": "2026-06-24T18:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T19:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069852373120647514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2041095876417122305",
+              "start": 0,
+              "username": "Yihuiam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069852373120647514",
+        "in_reply_to_user_id": "2041095876417122305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069851761700119002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yihuiam 加了石榴糖浆和橙汁挺顺口的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂///音乐\n好闺闺@RottenCrow1\n梨梨@Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 82,
+                "start": 69,
+                "username": "Hendry540558"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL2szz"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "name": "yIhu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 670,
+          "like_count": 2956,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 197
+        },
+        "url": "https://t.co/EFwkXL2szz",
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T02:18:52.000Z",
+        "description": "🇭🇰HK | 前世@ccaki_lonely | LGBT gay饰演者 边缘超8cult片导演 | 爱癌晚期 | 港版右美唯一药商 | 二型bpd患者\ntg群：https://t.co/C78WsiXE1A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "ccaki_lonely"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ywfxdrlwmdqd",
+                "end": 104,
+                "expanded_url": "http://t.me/ywfxdrlwmdqd",
+                "start": 81,
+                "url": "https://t.co/C78WsiXE1A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ywfxdrlwmdqd",
+                "end": 23,
+                "expanded_url": "http://t.me/ywfxdrlwmdqd",
+                "start": 0,
+                "url": "https://t.co/C78WsiXE1A"
+              }
+            ]
+          }
+        },
+        "id": "2066343787933368321",
+        "name": "橙子是唯一的彌賽亞",
+        "pinned_tweet_id": "2069757542474064218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066345056387354624/Tu20i7fr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 61,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 44
+        },
+        "url": "https://t.co/C78WsiXE1A",
+        "username": "ccaki__lonely",
+        "verified": false
+      }
+    ]
+  }
+}

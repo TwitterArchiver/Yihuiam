@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2064392062796177520",
+    "created_at": "2026-06-13T11:19:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T12:19:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065755815953453151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1754376895045804032",
+          "start": 0,
+          "username": "zyzitong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065755815953453151",
+    "in_reply_to_user_id": "1754376895045804032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065086422693114067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyzitong 你直接搜奶油泡发剂就好了呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2064392062796177520",
+        "created_at": "2026-06-13T11:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065755815953453151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1754376895045804032",
+              "start": 0,
+              "username": "zyzitong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065755815953453151",
+        "in_reply_to_user_id": "1754376895045804032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065086422693114067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyzitong 你直接搜奶油泡发剂就好了呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754376895045804032",
+        "conversation_id": "2064392062796177520",
+        "created_at": "2026-06-11T14:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065086422693114067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2041095876417122305",
+              "start": 0,
+              "username": "Yihuiam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065086422693114067",
+        "in_reply_to_user_id": "2041095876417122305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064392062796177520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yihuiam 宝宝你是不是私不了我😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂\n喜欢致幻剂///音乐\n我的好闺闺@RottenCrow1\n梨梨❣️ @Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 71,
+                "start": 58,
+                "username": "Hendry540558"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "name": "一户",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 490,
+          "like_count": 1479,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 131
+        },
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T05:30:32.000Z",
+        "description": "",
+        "id": "1754376895045804032",
+        "name": "？！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034029012071419904/uMF_ObUj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 48,
+          "like_count": 527,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "zyzitong",
+        "verified": false
+      }
+    ]
+  }
+}

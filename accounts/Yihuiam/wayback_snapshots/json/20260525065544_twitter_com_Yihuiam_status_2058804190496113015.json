@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058804170791190528"
+      ]
+    },
+    "author_id": "2041095876417122305",
+    "conversation_id": "2058804190496113015",
+    "created_at": "2026-05-25T06:55:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T07:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058804190496113015"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tff3VFadzK",
+          "end": 42,
+          "expanded_url": "https://x.com/Yihuiam/status/2058804190496113015/photo/1",
+          "media_key": "3_2058804170791190528",
+          "start": 19,
+          "url": "https://t.co/Tff3VFadzK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058804190496113015",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上课鼻吸150mg安非他酮干出鼻血了 https://t.co/Tff3VFadzK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058804170791190528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJXfD4aAAAdeLj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058804170791190528"
+          ]
+        },
+        "author_id": "2041095876417122305",
+        "conversation_id": "2058804190496113015",
+        "created_at": "2026-05-25T06:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T07:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058804190496113015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tff3VFadzK",
+              "end": 42,
+              "expanded_url": "https://x.com/Yihuiam/status/2058804190496113015/photo/1",
+              "media_key": "3_2058804170791190528",
+              "start": 19,
+              "url": "https://t.co/Tff3VFadzK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058804190496113015",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上课鼻吸150mg安非他酮干出鼻血了 https://t.co/Tff3VFadzK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//我不是晶 新手号带我玩呀我接受所有属性/学习药理中🙂\n喜欢致幻剂",
+        "id": "2041095876417122305",
+        "name": "Yihuiam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 49,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 13
+        },
+        "username": "Yihuiam",
+        "verified": false
+      }
+    ]
+  }
+}

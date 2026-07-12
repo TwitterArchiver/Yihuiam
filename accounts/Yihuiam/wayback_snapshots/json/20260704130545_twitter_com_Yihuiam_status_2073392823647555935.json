@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2072715893709426915",
+    "created_at": "2026-07-04T13:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T14:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073392823647555935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1780831626991460352",
+          "start": 0,
+          "username": "baozhasuiboli"
+        },
+        {
+          "end": 30,
+          "id": "1911421629122433024",
+          "start": 15,
+          "username": "zhangyixuanTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073392823647555935",
+    "in_reply_to_user_id": "1780831626991460352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073238095433216400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baozhasuiboli @zhangyixuanTvT 过量药效就是谵妄样中毒反应"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2072715893709426915",
+        "created_at": "2026-07-04T13:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073392823647555935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1780831626991460352",
+              "start": 0,
+              "username": "baozhasuiboli"
+            },
+            {
+              "end": 30,
+              "id": "1911421629122433024",
+              "start": 15,
+              "username": "zhangyixuanTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073392823647555935",
+        "in_reply_to_user_id": "1780831626991460352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073238095433216400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baozhasuiboli @zhangyixuanTvT 过量药效就是谵妄样中毒反应"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780831626991460352",
+        "conversation_id": "2072715893709426915",
+        "created_at": "2026-07-04T02:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T03:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073238095433216400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1911421629122433024",
+              "start": 0,
+              "username": "zhangyixuanTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073238095433216400",
+        "in_reply_to_user_id": "1911421629122433024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 329,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072715893709426915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangyixuanTvT 我真的求告知药效和起效期药效期半衰期，半衰期什么感觉，求求你了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂////音乐\n好闺闺@RottenCrow1\n梨梨@Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Hendry540558"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL2szz"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "name": "Ichito",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 798,
+          "like_count": 4135,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 279
+        },
+        "url": "https://t.co/EFwkXL2szz",
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T05:32:08.000Z",
+        "description": "和很阳光开朗的妹子聊不来，铁t和健身t勿扰，纯绿🚪52",
+        "id": "1780831626991460352",
+        "location": "Macau",
+        "name": "嗜睡症患者8号",
+        "pinned_tweet_id": "2022098515745509785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066131758740045824/8L_P-Pfv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 47,
+          "like_count": 5423,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 165
+        },
+        "url": "",
+        "username": "baozhasuiboli",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T14:10:34.000Z",
+        "description": "我是綾子 09抽烟磕药自残 欢迎女孩互fo呀！匿名消息在这里https://t.co/XKAbX5DLZ3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%BB%AB%E5%A…",
+                "end": 53,
+                "expanded_url": "https://ngl.link/%E7%BB%AB%E5%AD%90ayako",
+                "start": 30,
+                "url": "https://t.co/XKAbX5DLZ3"
+              }
+            ]
+          }
+        },
+        "id": "1911421629122433024",
+        "name": "綾子ayako",
+        "pinned_tweet_id": "2034657851222917529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911423831496855552/EI1UuIqM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 80,
+          "like_count": 628,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 223
+        },
+        "url": "",
+        "username": "zhangyixuanTvT",
+        "verified": false
+      }
+    ]
+  }
+}

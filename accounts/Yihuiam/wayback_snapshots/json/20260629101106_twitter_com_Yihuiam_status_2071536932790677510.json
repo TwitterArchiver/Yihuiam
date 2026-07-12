@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2071456821538181412",
+    "created_at": "2026-06-29T10:11:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T11:11:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071536932790677510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1525486795265294337",
+          "start": 0,
+          "username": "fuyo0928"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071536932790677510",
+    "in_reply_to_user_id": "1525486795265294337",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071528522716528661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuyo0928 🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2071456821538181412",
+        "created_at": "2026-06-29T10:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071536932790677510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1525486795265294337",
+              "start": 0,
+              "username": "fuyo0928"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071536932790677510",
+        "in_reply_to_user_id": "1525486795265294337",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071528522716528661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuyo0928 🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525486795265294337",
+        "conversation_id": "2071456821538181412",
+        "created_at": "2026-06-29T09:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071528522716528661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2041095876417122305",
+              "start": 0,
+              "username": "Yihuiam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071528522716528661",
+        "in_reply_to_user_id": "2041095876417122305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071456821538181412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yihuiam pr吃了以后就是会特别想抽烟！！好舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂///音乐\n好闺闺@RottenCrow1\n梨梨@Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 82,
+                "start": 69,
+                "username": "Hendry540558"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL2szz"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "name": "yIhu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 753,
+          "like_count": 3582,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 243
+        },
+        "url": "https://t.co/EFwkXL2szz",
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T14:43:04.000Z",
+        "description": "关关￤雜多垢 ￤♀￤Drugtwt￤🚪52\n🕯互关来吧来吧来吧\nShe/Her | Aro",
+        "id": "1525486795265294337",
+        "location": "東京、雑踏、せつなの夢。",
+        "name": "关灯喵8964",
+        "pinned_tweet_id": "2069591677069865383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055291096641781761/tddYQ5CD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 288,
+          "like_count": 1862,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 404
+        },
+        "url": "",
+        "username": "fuyo0928",
+        "verified": false
+      }
+    ]
+  }
+}

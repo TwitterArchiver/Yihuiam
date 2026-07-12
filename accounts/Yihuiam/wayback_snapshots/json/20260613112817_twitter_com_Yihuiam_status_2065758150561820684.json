@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2065749588326138252",
+    "created_at": "2026-06-13T11:28:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T12:28:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065758150561820684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2064837661320437760",
+          "start": 0,
+          "username": "luccccyr1m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065758150561820684",
+    "in_reply_to_user_id": "2064837661320437760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065749588326138252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luccccyr1m 你也不容易呀摸摸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065749585767661568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsETa6XgAAe_BP.jpg",
+        "width": 1221
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065749579673313280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsETENXIAAiDF8.jpg",
+        "width": 973
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065749579874570241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsETE9WEAEXeXU.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2065749588326138252",
+        "created_at": "2026-06-13T11:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065758150561820684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2064837661320437760",
+              "start": 0,
+              "username": "luccccyr1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065758150561820684",
+        "in_reply_to_user_id": "2064837661320437760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065749588326138252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luccccyr1m 你也不容易呀摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065749585767661568",
+            "3_2065749579673313280",
+            "3_2065749579874570241"
+          ]
+        },
+        "author_id": "2064837661320437760",
+        "conversation_id": "2065749588326138252",
+        "created_at": "2026-06-13T10:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065749588326138252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kR1WXhZJPo",
+              "end": 44,
+              "expanded_url": "https://x.com/luccccyr1m/status/2065749588326138252/photo/1",
+              "media_key": "3_2065749585767661568",
+              "start": 21,
+              "url": "https://t.co/kR1WXhZJPo"
+            },
+            {
+              "display_url": "pic.x.com/kR1WXhZJPo",
+              "end": 44,
+              "expanded_url": "https://x.com/luccccyr1m/status/2065749588326138252/photo/1",
+              "media_key": "3_2065749579673313280",
+              "start": 21,
+              "url": "https://t.co/kR1WXhZJPo"
+            },
+            {
+              "display_url": "pic.x.com/kR1WXhZJPo",
+              "end": 44,
+              "expanded_url": "https://x.com/luccccyr1m/status/2065749588326138252/photo/1",
+              "media_key": "3_2065749579874570241",
+              "start": 21,
+              "url": "https://t.co/kR1WXhZJPo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065749588326138252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一天天的我容易吗🥹，谁家买普瑞号那么新啊 https://t.co/kR1WXhZJPo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂\n喜欢致幻剂///音乐\n我的好闺闺@RottenCrow1\n梨梨❣️ @Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 71,
+                "start": 58,
+                "username": "Hendry540558"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "name": "一户",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 491,
+          "like_count": 1486,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 131
+        },
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-10T22:31:39.000Z",
+        "description": "以性别担保自己绝对靠谱！！！持证含糖，hrt2026/7/10，在售色普龙，泰补，日雌，日孕片，司美，普瑞，愈美",
+        "id": "2064837661320437760",
+        "name": "luccccy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064838170722934784/MNpILZGU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 45,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 47
+        },
+        "username": "luccccyr1m",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2061672259690115567",
+    "created_at": "2026-06-02T04:52:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T05:52:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061672259690115567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868510115873353729",
+          "start": 3,
+          "username": "kangaibukai_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061672259690115567",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2058
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061306455542890875",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @kangaibukai_: いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2061672259690115567",
+        "created_at": "2026-06-02T04:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061672259690115567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868510115873353729",
+              "start": 3,
+              "username": "kangaibukai_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061672259690115567",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2058
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061306455542890875",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @kangaibukai_: いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868510115873353729",
+        "conversation_id": "2061306455542890875",
+        "created_at": "2026-06-01T04:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061306455542890875"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061306455542890875",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 250,
+          "impression_count": 88245,
+          "like_count": 7746,
+          "quote_count": 126,
+          "reply_count": 10,
+          "retweet_count": 2058
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自殺！いますぐ自"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//我不是晶 新手号带我玩呀我接受所有属性/学习药理中🙂\n喜欢致幻剂",
+        "id": "2041095876417122305",
+        "name": "Yihuiam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 166,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 29
+        },
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T04:15:21.000Z",
+        "description": "つまらない夢を見ていたんです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/nuigln1v9k6z1o…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/nuigln1v9k6z1ok?t=BuiwCv&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/1jUAlc3cLw"
+              }
+            ]
+          }
+        },
+        "id": "1868510115873353729",
+        "location": "フリーター‼️精神疾患‼️恥の多い生涯‼️",
+        "name": "感慨深い！",
+        "pinned_tweet_id": "1988637277459779637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029393024581881856/ZuhSsdLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 877,
+          "like_count": 58034,
+          "listed_count": 6,
+          "media_count": 150,
+          "tweet_count": 2422
+        },
+        "url": "https://t.co/1jUAlc3cLw",
+        "username": "kangaibukai_",
+        "verified": false
+      }
+    ]
+  }
+}

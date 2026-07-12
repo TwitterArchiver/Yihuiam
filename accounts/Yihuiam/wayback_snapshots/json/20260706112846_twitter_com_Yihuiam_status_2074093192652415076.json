@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2072715893709426915",
+    "created_at": "2026-07-06T11:28:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T12:28:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074093192652415076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1780831626991460352",
+          "start": 0,
+          "username": "baozhasuiboli"
+        },
+        {
+          "end": 30,
+          "id": "1911421629122433024",
+          "start": 15,
+          "username": "zhangyixuanTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074093192652415076",
+    "in_reply_to_user_id": "1780831626991460352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073791092076748993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baozhasuiboli @zhangyixuanTvT 没吃过这个 苯海拉明不超过8t比较舒服。（只是相对来说。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2072715893709426915",
+        "created_at": "2026-07-06T11:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074093192652415076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1780831626991460352",
+              "start": 0,
+              "username": "baozhasuiboli"
+            },
+            {
+              "end": 30,
+              "id": "1911421629122433024",
+              "start": 15,
+              "username": "zhangyixuanTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074093192652415076",
+        "in_reply_to_user_id": "1780831626991460352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073791092076748993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baozhasuiboli @zhangyixuanTvT 没吃过这个 苯海拉明不超过8t比较舒服。（只是相对来说。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780831626991460352",
+        "conversation_id": "2072715893709426915",
+        "created_at": "2026-07-05T15:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073791092076748993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2041095876417122305",
+              "start": 0,
+              "username": "Yihuiam"
+            },
+            {
+              "end": 24,
+              "id": "1911421629122433024",
+              "start": 9,
+              "username": "zhangyixuanTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073791092076748993",
+        "in_reply_to_user_id": "2041095876417122305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073392823647555935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yihuiam @zhangyixuanTvT 原来如此 有没有推荐的轻度剂量"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂////音乐\n好闺闺@RottenCrow1\n梨梨@Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Hendry540558"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL2szz"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "name": "Ichito",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 831,
+          "like_count": 4383,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 289
+        },
+        "url": "https://t.co/EFwkXL2szz",
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T05:32:08.000Z",
+        "description": "和很阳光开朗的妹子聊不来，铁t和健身t勿扰，纯绿🚪52",
+        "id": "1780831626991460352",
+        "location": "Macau",
+        "name": "嗜睡症患者8号",
+        "pinned_tweet_id": "2022098515745509785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066131758740045824/8L_P-Pfv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 51,
+          "like_count": 5447,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 174
+        },
+        "url": "",
+        "username": "baozhasuiboli",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T14:10:34.000Z",
+        "description": "我是綾子 09抽烟磕药自残 欢迎女孩互fo呀！匿名消息在这里https://t.co/XKAbX5DLZ3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%BB%AB%E5%A…",
+                "end": 53,
+                "expanded_url": "https://ngl.link/%E7%BB%AB%E5%AD%90ayako",
+                "start": 30,
+                "url": "https://t.co/XKAbX5DLZ3"
+              }
+            ]
+          }
+        },
+        "id": "1911421629122433024",
+        "name": "綾子ayako",
+        "pinned_tweet_id": "2034657851222917529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911423831496855552/EI1UuIqM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 81,
+          "like_count": 629,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 225
+        },
+        "url": "",
+        "username": "zhangyixuanTvT",
+        "verified": false
+      }
+    ]
+  }
+}

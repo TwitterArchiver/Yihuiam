@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-14T15:27:59",
+  "last_updated": "2026-07-14T15:28:14",
   "html": {
     "https://web.archive.org/web/20260524100143if_/https://twitter.com/Yihuiam/status/2058488605321113709": {
       "status": "done",
@@ -4498,16 +4498,18 @@
       "last_updated": "2026-07-12T01:36:44"
     },
     "https://pbs.twimg.com/profile_images/2075802582438871040/Chw8sdcg_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260711103937_twitter_com_Yihuiam_status_2075892762248159460.json"
-      ]
+      ],
+      "last_updated": "2026-07-14T15:28:14"
     },
     "https://pbs.twimg.com/profile_images/2053496715651719168/4h2oWcLy_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260712044432_twitter_com_Yihuiam_status_2076165788868972896.json"
-      ]
+      ],
+      "last_updated": "2026-07-14T15:28:14"
     }
   },
   "media": {
@@ -9391,7 +9393,7 @@
       "last_updated": "2026-07-12T01:36:44"
     },
     "20260711103937_twitter_com_Yihuiam_status_2075892762248159460.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -9400,7 +9402,7 @@
           "https://pbs.twimg.com/profile_images/2075802582438871040/Chw8sdcg_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-14T15:27:59"
+      "last_updated": "2026-07-14T15:28:14"
     },
     "20260711142517_twitter_com_Yihuiam_status_2075949555368231092.json": {
       "status": "done",
@@ -9414,7 +9416,7 @@
       "last_updated": "2026-07-14T15:24:33"
     },
     "20260712044432_twitter_com_Yihuiam_status_2076165788868972896.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HM9XWgCbAAAi7Cg.jpg"
@@ -9425,7 +9427,7 @@
           "https://pbs.twimg.com/profile_images/2053496715651719168/4h2oWcLy_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-14T15:27:59"
+      "last_updated": "2026-07-14T15:28:14"
     }
   }
 }

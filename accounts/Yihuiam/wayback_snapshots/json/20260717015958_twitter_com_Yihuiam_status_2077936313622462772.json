@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2077603941626544535",
+    "created_at": "2026-07-17T01:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T02:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077936313622462772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065149033379971072",
+          "start": 0,
+          "username": "Lomyral896444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077936313622462772",
+    "in_reply_to_user_id": "2065149033379971072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077603941626544535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral896444 猫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2077603941626544535",
+        "created_at": "2026-07-17T01:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T02:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077936313622462772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065149033379971072",
+              "start": 0,
+              "username": "Lomyral896444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077936313622462772",
+        "in_reply_to_user_id": "2065149033379971072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077603941626544535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral896444 猫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065149033379971072",
+        "conversation_id": "2077603941626544535",
+        "created_at": "2026-07-16T03:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T04:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077603941626544535"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077603941626544535",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2238,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不太想上推"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂////音乐/影视\n好闺闺@RottenCrow1\n梨梨@Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Hendry540558"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL2szz"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "name": "Ichito",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 885,
+          "like_count": 5227,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 338
+        },
+        "url": "https://t.co/EFwkXL2szz",
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they(他/ta)|\nINTP/重抑中焦|\n碎碎念推，不吸毒|\n这里是四号机，互关寻回中|\n最爱的骚b❤️：@TheB17w153|申必内容：@Zukawbit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "TheB17w153"
+              },
+              {
+                "end": 89,
+                "start": 80,
+                "username": "Zukawbit"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2070796191520952604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 461,
+          "like_count": 3969,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 918
+        },
+        "url": "",
+        "username": "Lomyral896444",
+        "verified": true
+      }
+    ]
+  }
+}

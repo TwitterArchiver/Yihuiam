@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2076595253822566854",
+    "created_at": "2026-07-14T12:28:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T13:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077007244554813592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2076507759839940609",
+          "start": 0,
+          "username": "Relylh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077007244554813592",
+    "in_reply_to_user_id": "2076507759839940609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076595253822566854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Relylh 总往墙内发个啥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076595234662928384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGMXRhaUAA8YDS.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2076595253822566854",
+        "created_at": "2026-07-14T12:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077007244554813592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2076507759839940609",
+              "start": 0,
+              "username": "Relylh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077007244554813592",
+        "in_reply_to_user_id": "2076507759839940609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076595253822566854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Relylh 总往墙内发个啥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076595234662928384"
+          ]
+        },
+        "author_id": "2076507759839940609",
+        "conversation_id": "2076595253822566854",
+        "created_at": "2026-07-13T09:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076595253822566854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/39pNyy10w9",
+              "end": 107,
+              "expanded_url": "https://x.com/Relylh/status/2076595253822566854/photo/1",
+              "media_key": "3_2076595234662928384",
+              "start": 84,
+              "url": "https://t.co/39pNyy10w9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076595253822566854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们这些挂我的 咋不当我面来说 一个吸毒妹挂上我了 这个药日本都快要禁完了 每天上推特听风就是雨 我操你们死妈的 \n那些骂我的有几个吃这个药了 你妈臭逼 你们这群婊子 https://t.co/39pNyy10w9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂////音乐/Aesthetics\n好闺闺@RottenCrow1\n梨梨@Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "Hendry540558"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL2szz"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "name": "Ichito",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 884,
+          "like_count": 5095,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 334
+        },
+        "url": "https://t.co/EFwkXL2szz",
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-13T03:24:39.000Z",
+        "description": "",
+        "id": "2076507759839940609",
+        "name": "Rely",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076614008300535808/0JyjcVqL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 22,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "Relylh",
+        "verified": false
+      }
+    ]
+  }
+}

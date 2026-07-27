@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2080283920269234274",
+    "created_at": "2026-07-23T13:52:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T14:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080290050403885156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1859117911119720448",
+          "start": 0,
+          "username": "bp01110526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080290050403885156",
+    "in_reply_to_user_id": "1859117911119720448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080288164686762311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bp01110526 okk第一次多少比较好捏😙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2080283920269234274",
+        "created_at": "2026-07-23T13:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080290050403885156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1859117911119720448",
+              "start": 0,
+              "username": "bp01110526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080290050403885156",
+        "in_reply_to_user_id": "1859117911119720448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080288164686762311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bp01110526 okk第一次多少比较好捏😙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859117911119720448",
+        "conversation_id": "2080283920269234274",
+        "created_at": "2026-07-23T13:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080288164686762311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2041095876417122305",
+              "start": 0,
+              "username": "Yihuiam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080288164686762311",
+        "in_reply_to_user_id": "2041095876417122305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080283920269234274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yihuiam 舌下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂////音乐/影视\n好闺闺@RottenCrow1\n梨梨@Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Hendry540558"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL2szz"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "name": "Ichito",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 910,
+          "like_count": 5422,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 350
+        },
+        "url": "https://t.co/EFwkXL2szz",
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-20T06:13:53.000Z",
+        "description": "🚪\n99 纯绿\n199半绿",
+        "id": "1859117911119720448",
+        "location": "日本 東京",
+        "name": "bp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068470591666204672/ekn4YUFf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 90,
+          "like_count": 7236,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 4034
+        },
+        "url": "",
+        "username": "bp01110526",
+        "verified": false
+      }
+    ]
+  }
+}

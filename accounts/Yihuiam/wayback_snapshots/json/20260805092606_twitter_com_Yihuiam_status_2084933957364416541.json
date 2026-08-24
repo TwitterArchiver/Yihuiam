@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2057508198836535733",
+    "created_at": "2026-08-05T09:26:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T10:26:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084933957364416541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971306941931753472",
+          "start": 0,
+          "username": "hulixunlei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084933957364416541",
+    "in_reply_to_user_id": "1971306941931753472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057508198836535733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hulixunlei 我想去玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38133,
+        "height": 720,
+        "media_key": "13_2057508104703782912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057508104703782912/img/W2YASEU67SuZPnwk.jpg",
+        "public_metrics": {
+          "view_count": 566
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057508104703782912/vid/avc1/476x270/S44BSVyceO3x1MQc.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057508104703782912/vid/avc1/634x360/q_eiN-VcRvvcdAVu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057508104703782912/vid/avc1/1270x720/CdLb4ipBUxz1yKBl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057508104703782912/pl/nUQUBW0nhXkBnYh8.m3u8?v=cfc"
+          }
+        ],
+        "width": 1270
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2057508198836535733",
+        "created_at": "2026-08-05T09:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084933957364416541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971306941931753472",
+              "start": 0,
+              "username": "hulixunlei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084933957364416541",
+        "in_reply_to_user_id": "1971306941931753472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057508198836535733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hulixunlei 我想去玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057508104703782912"
+          ]
+        },
+        "author_id": "1971306941931753472",
+        "conversation_id": "2057508198836535733",
+        "created_at": "2026-05-21T17:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T18:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057508198836535733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XfecFr9Kwh",
+              "end": 171,
+              "expanded_url": "https://x.com/hulixunlei/status/2057508198836535733/video/1",
+              "media_key": "13_2057508104703782912",
+              "start": 148,
+              "url": "https://t.co/XfecFr9Kwh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057508198836535733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2194,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我们在广州做免费的户外广场舞派对，单纯的分享psy音乐，大家心情好可以来玩，私信我可以进群，自带酒水（可以叫外卖），自带垃圾袋（爱护环境，旁边有垃圾桶），我是希望给大家一些音乐，跳舞锻炼身体，生活增加一些乐趣。长期有效。也欢迎dj过来分享音乐（禁止重复没有趣味的失真的hardtechno，因为 https://t.co/XfecFr9Kwh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂////音乐/影视\n好闺闺@RottenCrow1\n梨梨@Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Hendry540558"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL2szz"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "name": "Ichito",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 961,
+          "like_count": 6384,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 393
+        },
+        "url": "https://t.co/EFwkXL2szz",
+        "username": "Yihuiam",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T20:13:08.000Z",
+        "description": "",
+        "id": "1971306941931753472",
+        "name": "活力淫乱幻想",
+        "pinned_tweet_id": "2057508198836535733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971307001989955584/4ImWLrAM_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 258,
+          "like_count": 1437,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 189
+        },
+        "url": "",
+        "username": "hulixunlei",
+        "verified": false
+      }
+    ]
+  }
+}

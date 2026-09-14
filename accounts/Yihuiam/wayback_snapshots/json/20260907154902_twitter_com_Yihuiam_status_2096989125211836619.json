@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096519911476768768"
+      ],
+      "media_source_tweet_id": [
+        "2096519918741332023"
+      ]
+    },
+    "author_id": "2041095876417122305",
+    "conversation_id": "2096989125211836619",
+    "created_at": "2026-09-07T15:49:02.000Z",
+    "display_text_range": [
+      0,
+      94
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T16:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096989125211836619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2096517972731043840",
+          "start": 3,
+          "username": "Mercydrugs1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DzU6tWPecN",
+          "end": 94,
+          "expanded_url": "https://x.com/Mercydrugs1/status/2096519918741332023/photo/1",
+          "media_key": "3_2096519911476768768",
+          "start": 71,
+          "url": "https://t.co/DzU6tWPecN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096989125211836619",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096519911476768768"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096519918741332023",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mercydrugs1: 我是mercy，大号仅仅因为讲述了一下自己的个人经历就被冻结了。累了。希望大家能转转推寻回一下互关，感谢。 https://t.co/DzU6tWPecN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096519911476768768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhVwGwbMAAtkwT.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096519911476768768"
+          ],
+          "media_source_tweet_id": [
+            "2096519918741332023"
+          ]
+        },
+        "author_id": "2041095876417122305",
+        "conversation_id": "2096989125211836619",
+        "created_at": "2026-09-07T15:49:02.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096989125211836619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2096517972731043840",
+              "start": 3,
+              "username": "Mercydrugs1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DzU6tWPecN",
+              "end": 94,
+              "expanded_url": "https://x.com/Mercydrugs1/status/2096519918741332023/photo/1",
+              "media_key": "3_2096519911476768768",
+              "start": 71,
+              "url": "https://t.co/DzU6tWPecN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096989125211836619",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096519911476768768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096519918741332023",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mercydrugs1: 我是mercy，大号仅仅因为讲述了一下自己的个人经历就被冻结了。累了。希望大家能转转推寻回一下互关，感谢。 https://t.co/DzU6tWPecN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096519911476768768"
+          ]
+        },
+        "author_id": "2096517972731043840",
+        "conversation_id": "2096519918741332023",
+        "created_at": "2026-09-06T08:44:34.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T09:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096519918741332023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DzU6tWPecN",
+              "end": 77,
+              "expanded_url": "https://x.com/Mercydrugs1/status/2096519918741332023/photo/1",
+              "media_key": "3_2096519911476768768",
+              "start": 54,
+              "url": "https://t.co/DzU6tWPecN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096519918741332023",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096519911476768768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2831,
+          "like_count": 52,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "我是mercy，大号仅仅因为讲述了一下自己的个人经历就被冻结了。累了。希望大家能转转推寻回一下互关，感谢。 https://t.co/DzU6tWPecN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂////音乐/影视\n好闺闺@RottenCrow1\n梨梨@Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Hendry540558"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL2szz"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096989125211836619",
+        "name": "Ichito",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041095876417122305/1779626311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 947,
+          "like_count": 6978,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 468
+        },
+        "url": "https://t.co/EFwkXL2szz",
+        "username": "Yihuiam",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-06T08:37:37.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR.｜💊🔪🩸\n出PR及兴奋剂、各种致幻剂。",
+        "id": "2096517972731043840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096948636504711645",
+        "name": "Mercy",
+        "pinned_tweet_id": "2096926292822327366",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096517972731043840/1788683991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096518421286682624/bG2RCOs7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 173,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 59
+        },
+        "url": "",
+        "username": "Mercydrugs1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

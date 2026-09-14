@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097280733928628224"
+      ],
+      "media_source_tweet_id": [
+        "2097339188886544608"
+      ]
+    },
+    "author_id": "2041095876417122305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2098010530711769138",
+    "created_at": "2026-09-10T11:27:44.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T12:27:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098010530711769138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1238520105841168386",
+          "start": 3,
+          "username": "MemoryOffline"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rS2nIoh2f5",
+          "end": 42,
+          "expanded_url": "https://x.com/MemoryOffline/status/2097339188886544608/photo/1",
+          "media_key": "3_2097280733928628224",
+          "start": 19,
+          "url": "https://t.co/rS2nIoh2f5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098010530711769138",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2097280733928628224"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6858
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097339188886544608",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MemoryOffline: https://t.co/rS2nIoh2f5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1760,
+        "media_key": "3_2097280733928628224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRsJtzQWIAA24vx.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097280733928628224"
+          ],
+          "media_source_tweet_id": [
+            "2097339188886544608"
+          ]
+        },
+        "author_id": "2041095876417122305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098010530711769138",
+        "created_at": "2026-09-10T11:27:44.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T12:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098010530711769138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1238520105841168386",
+              "start": 3,
+              "username": "MemoryOffline"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rS2nIoh2f5",
+              "end": 42,
+              "expanded_url": "https://x.com/MemoryOffline/status/2097339188886544608/photo/1",
+              "media_key": "3_2097280733928628224",
+              "start": 19,
+              "url": "https://t.co/rS2nIoh2f5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098010530711769138",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2097280733928628224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6858
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097339188886544608",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MemoryOffline: https://t.co/rS2nIoh2f5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097280733928628224"
+          ]
+        },
+        "author_id": "1238520105841168386",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097339188886544608",
+        "created_at": "2026-09-08T15:00:03.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T16:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097339188886544608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rS2nIoh2f5",
+              "end": 23,
+              "expanded_url": "https://x.com/MemoryOffline/status/2097339188886544608/photo/1",
+              "media_key": "3_2097280733928628224",
+              "start": 0,
+              "url": "https://t.co/rS2nIoh2f5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097339188886544608",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2097280733928628224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3889,
+          "impression_count": 544972,
+          "like_count": 46122,
+          "quote_count": 261,
+          "reply_count": 115,
+          "retweet_count": 6858
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rS2nIoh2f5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习中🙂酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂////音乐/影视\n好闺闺@RottenCrow1\n梨梨@Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 84,
+                "start": 71,
+                "username": "Hendry540558"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL1UK1"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098010530711769138",
+        "name": "Ichito",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041095876417122305/1779626311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 968,
+          "like_count": 7167,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 475
+        },
+        "url": "https://t.co/EFwkXL1UK1",
+        "username": "Yihuiam",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-13T17:40:00.000Z",
+        "description": "o n l i n e",
+        "id": "1238520105841168386",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098003569853002184",
+        "name": "Memory",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1238520105841168386/1784651029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079603216065429504/NZwgiK9M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106439,
+          "following_count": 36,
+          "like_count": 2786,
+          "listed_count": 154,
+          "media_count": 4247,
+          "tweet_count": 4451
+        },
+        "url": "",
+        "username": "MemoryOffline",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

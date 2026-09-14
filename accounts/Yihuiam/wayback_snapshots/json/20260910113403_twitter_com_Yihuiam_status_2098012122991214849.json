@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2098012122991214849",
+    "created_at": "2026-09-10T11:34:03.000Z",
+    "display_text_range": [
+      0,
+      94
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T12:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098012122991214849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1224062273397850112",
+          "start": 3,
+          "username": "Ayudadme_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098012122991214849",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097809301129838830",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ayudadme_: el lsd te cura la depresión antes q los antidepresivos y encima t puedes correr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2098012122991214849",
+        "created_at": "2026-09-10T11:34:03.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T12:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098012122991214849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1224062273397850112",
+              "start": 3,
+              "username": "Ayudadme_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098012122991214849",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097809301129838830",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ayudadme_: el lsd te cura la depresión antes q los antidepresivos y encima t puedes correr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224062273397850112",
+        "conversation_id": "2097809301129838830",
+        "created_at": "2026-09-09T22:08:07.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T23:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097809301129838830"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097809301129838830",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 30036,
+          "like_count": 1043,
+          "quote_count": 12,
+          "reply_count": 14,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "el lsd te cura la depresión antes q los antidepresivos y encima t puedes correr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习中🙂酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂////音乐/影视\n好闺闺@RottenCrow1\n梨梨@Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 84,
+                "start": 71,
+                "username": "Hendry540558"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL1UK1"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098012122991214849",
+        "name": "Ichito",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041095876417122305/1779626311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 970,
+          "like_count": 7177,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 478
+        },
+        "url": "https://t.co/EFwkXL1UK1",
+        "username": "Yihuiam",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-02T20:09:32.000Z",
+        "description": "Izan con za de zaza 🍃 21 añitos la criatura 🥀 BCN 🚭\nNací x mi madre moriré por el tabaco\nEl Swag es un estilo de vida fuck huella digital\n@IzanCrybaby",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 138,
+                "username": "IzanCrybaby"
+              }
+            ]
+          }
+        },
+        "id": "1224062273397850112",
+        "is_identity_verified": false,
+        "location": "idgafkistan 💯",
+        "most_recent_tweet_id": "2097819320751390844",
+        "name": "Fumador Licenciado",
+        "pinned_tweet_id": "1920125159886741867",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1224062273397850112/1715355328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084917559367798784/xHmdw2-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6599,
+          "following_count": 855,
+          "like_count": 82919,
+          "listed_count": 1,
+          "media_count": 3750,
+          "tweet_count": 34459
+        },
+        "url": "",
+        "username": "Ayudadme_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

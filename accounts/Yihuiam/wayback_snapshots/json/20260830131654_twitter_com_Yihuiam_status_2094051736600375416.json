@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094051724516610048"
+      ]
+    },
+    "author_id": "2041095876417122305",
+    "conversation_id": "2094051736600375416",
+    "created_at": "2026-08-30T13:16:54.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T14:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094051736600375416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1747227773096112129",
+          "start": 0,
+          "username": "hselc_333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zCg0f3CA1o",
+          "end": 41,
+          "expanded_url": "https://x.com/Yihuiam/status/2094051736600375416/photo/1",
+          "media_key": "3_2094051724516610048",
+          "start": 18,
+          "url": "https://t.co/zCg0f3CA1o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094051736600375416",
+    "in_reply_to_user_id": "1747227773096112129",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2094051724516610048"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@hselc_333 今天是oxy https://t.co/zCg0f3CA1o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1672,
+        "media_key": "3_2094051724516610048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ-Q8t0bUAASYaN.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094051724516610048"
+          ]
+        },
+        "author_id": "2041095876417122305",
+        "conversation_id": "2094051736600375416",
+        "created_at": "2026-08-30T13:16:54.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T14:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094051736600375416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747227773096112129",
+              "start": 0,
+              "username": "hselc_333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zCg0f3CA1o",
+              "end": 41,
+              "expanded_url": "https://x.com/Yihuiam/status/2094051736600375416/photo/1",
+              "media_key": "3_2094051724516610048",
+              "start": 18,
+              "url": "https://t.co/zCg0f3CA1o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094051736600375416",
+        "in_reply_to_user_id": "1747227773096112129",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094051724516610048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@hselc_333 今天是oxy https://t.co/zCg0f3CA1o"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂////音乐/影视\n好闺闺@RottenCrow1\n梨梨@Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Hendry540558"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL2szz"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094051736600375416",
+        "name": "Ichito",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041095876417122305/1779626311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 933,
+          "like_count": 6660,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 429
+        },
+        "url": "https://t.co/EFwkXL2szz",
+        "username": "Yihuiam",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-16T12:02:36.000Z",
+        "description": "@b1ng333 彼女💗🖤\n\n生命将继续，事件将展开，精神冲突将得到解决，而我不会参与。我不指望任何东西，无论是思想的，还是肉体的。对我来说，存在永久的痛苦与黑暗，灵魂的黑夜，而我没有声音，我无法叫喊。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "b1ng333"
+              }
+            ]
+          }
+        },
+        "id": "1747227773096112129",
+        "is_identity_verified": false,
+        "location": "空行净土",
+        "most_recent_tweet_id": "2094028858974761406",
+        "name": "𣎴可能性☸️वज्रपाणि",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1747227773096112129/1776257924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070497885322346496/baoQJ3_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 712,
+          "like_count": 17241,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1049
+        },
+        "url": "",
+        "username": "hselc_333",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

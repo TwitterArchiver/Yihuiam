@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097646132092669952"
+      ],
+      "media_source_tweet_id": [
+        "2097646139294318951"
+      ]
+    },
+    "author_id": "2041095876417122305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2098010198900355083",
+    "created_at": "2026-09-10T11:26:25.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T12:26:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098010198900355083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2031597310589947904",
+          "start": 3,
+          "username": "Hitsujikawaiin4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CFpFP8weCy",
+          "end": 63,
+          "expanded_url": "https://x.com/Hitsujikawaiin4/status/2097646139294318951/photo/1",
+          "media_key": "3_2097646132092669952",
+          "start": 40,
+          "url": "https://t.co/CFpFP8weCy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098010198900355083",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2097646132092669952"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097646139294318951",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hitsujikawaiin4: 薬物のレポ漫画も出したことがあります https://t.co/CFpFP8weCy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097646132092669952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRxWCxfbEAAlhMQ.jpg",
+        "width": 1450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097646132092669952"
+          ],
+          "media_source_tweet_id": [
+            "2097646139294318951"
+          ]
+        },
+        "author_id": "2041095876417122305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2098010198900355083",
+        "created_at": "2026-09-10T11:26:25.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T12:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098010198900355083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2031597310589947904",
+              "start": 3,
+              "username": "Hitsujikawaiin4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CFpFP8weCy",
+              "end": 63,
+              "expanded_url": "https://x.com/Hitsujikawaiin4/status/2097646139294318951/photo/1",
+              "media_key": "3_2097646132092669952",
+              "start": 40,
+              "url": "https://t.co/CFpFP8weCy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098010198900355083",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097646132092669952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097646139294318951",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hitsujikawaiin4: 薬物のレポ漫画も出したことがあります https://t.co/CFpFP8weCy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097646132092669952"
+          ]
+        },
+        "author_id": "2031597310589947904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2097646139294318951",
+        "created_at": "2026-09-09T11:19:46.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T12:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097646139294318951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CFpFP8weCy",
+              "end": 42,
+              "expanded_url": "https://x.com/Hitsujikawaiin4/status/2097646139294318951/photo/1",
+              "media_key": "3_2097646132092669952",
+              "start": 19,
+              "url": "https://t.co/CFpFP8weCy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097646139294318951",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097646132092669952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 18071,
+          "like_count": 419,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "薬物のレポ漫画も出したことがあります https://t.co/CFpFP8weCy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习中🙂酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂////音乐/影视\n好闺闺@RottenCrow1\n梨梨@Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 84,
+                "start": 71,
+                "username": "Hendry540558"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL1UK1"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098010198900355083",
+        "name": "Ichito",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041095876417122305/1779626311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 967,
+          "like_count": 7160,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 474
+        },
+        "url": "https://t.co/EFwkXL1UK1",
+        "username": "Yihuiam",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-11T05:06:30.000Z",
+        "description": "哲学、エピクロス主義",
+        "id": "2031597310589947904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098002450905207280",
+        "name": "🐏かわいいね",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2031597310589947904/1773295890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031973938465816577/wVIAwZiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 16,
+          "like_count": 3432,
+          "listed_count": 1,
+          "media_count": 449,
+          "tweet_count": 946
+        },
+        "url": "",
+        "username": "Hitsujikawaiin4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

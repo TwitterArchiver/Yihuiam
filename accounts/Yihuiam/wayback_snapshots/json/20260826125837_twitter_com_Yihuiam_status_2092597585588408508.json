@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2092259404276183410",
+    "created_at": "2026-08-26T12:58:37.000Z",
+    "display_text_range": [
+      16,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T13:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092597585588408508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2073420644109504513",
+          "start": 0,
+          "username": "IYDKMIGTHTKY23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092597585588408508",
+    "in_reply_to_user_id": "2073420644109504513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092595494447087769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IYDKMIGTHTKY23 噢噢真好啊还能买到优美😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2092259404276183410",
+        "created_at": "2026-08-26T12:58:37.000Z",
+        "display_text_range": [
+          16,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092597585588408508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2073420644109504513",
+              "start": 0,
+              "username": "IYDKMIGTHTKY23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092597585588408508",
+        "in_reply_to_user_id": "2073420644109504513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092595494447087769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IYDKMIGTHTKY23 噢噢真好啊还能买到优美😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073420644109504513",
+        "conversation_id": "2092259404276183410",
+        "created_at": "2026-08-26T12:50:19.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092595494447087769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2041095876417122305",
+              "start": 0,
+              "username": "Yihuiam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092595494447087769",
+        "in_reply_to_user_id": "2041095876417122305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092594614188302457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yihuiam 最後沒吐"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂////音乐/影视\n好闺闺@RottenCrow1\n梨梨@Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Hendry540558"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL2szz"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092597585588408508",
+        "name": "Ichito",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041095876417122305/1779626311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 917,
+          "like_count": 6609,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 420
+        },
+        "url": "https://t.co/EFwkXL2szz",
+        "username": "Yihuiam",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-04T15:10:17.000Z",
+        "description": "我是歐姆\n同成分會互fo\n爸爸活私這邊：@omo20060903",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "omo20060903"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/omo09031",
+                "end": 23,
+                "expanded_url": "https://ngl.link/omo09031",
+                "start": 0,
+                "url": "https://t.co/jLwv3cCISf"
+              }
+            ]
+          }
+        },
+        "id": "2073420644109504513",
+        "is_identity_verified": false,
+        "location": "你爸床上",
+        "most_recent_tweet_id": "2092595494447087769",
+        "name": "？（3.0）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073420644109504513/1783895478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080376678682087424/stGTfM2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 601,
+          "like_count": 6802,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 337
+        },
+        "url": "https://t.co/jLwv3cCISf",
+        "username": "IYDKMIGTHTKY23",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

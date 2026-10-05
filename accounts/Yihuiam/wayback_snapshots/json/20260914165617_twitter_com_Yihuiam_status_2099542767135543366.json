@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2099381194676916716",
+    "created_at": "2026-09-14T16:56:17.000Z",
+    "display_text_range": [
+      31,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T17:56:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099542767135543366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1051173694779863040",
+          "start": 0,
+          "username": "madina__mart"
+        },
+        {
+          "end": 30,
+          "id": "1169174984389885952",
+          "start": 14,
+          "username": "Angel_SaveUsAll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099542767135543366",
+    "in_reply_to_user_id": "1051173694779863040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099381194676916716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@madina__mart @Angel_SaveUsAll 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2099381194676916716",
+        "created_at": "2026-09-14T16:56:17.000Z",
+        "display_text_range": [
+          31,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T17:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099542767135543366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1051173694779863040",
+              "start": 0,
+              "username": "madina__mart"
+            },
+            {
+              "end": 30,
+              "id": "1169174984389885952",
+              "start": 14,
+              "username": "Angel_SaveUsAll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099542767135543366",
+        "in_reply_to_user_id": "1051173694779863040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099381194676916716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@madina__mart @Angel_SaveUsAll 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1051173694779863040",
+        "conversation_id": "2099381194676916716",
+        "created_at": "2026-09-14T06:14:16.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T07:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099381194676916716"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099381194676916716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1523,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "鉴于之前抽到的两两位没有回复我，我将把他们的重新抽，如果他们看到了也可以重新找我拿，期限一周噢\n\n所以就是pr10\npr5g\n两个奖项20人开奖"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习中🙂酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂////音乐/影视/书籍\n好闺闺@RottenCrow1\n梨梨@Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 87,
+                "start": 74,
+                "username": "Hendry540558"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL2szz"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099542767135543366",
+        "name": "Ichito",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041095876417122305/1779626311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 1031,
+          "like_count": 7771,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 484
+        },
+        "url": "https://t.co/EFwkXL2szz",
+        "username": "Yihuiam",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-10-13T18:11:53.000Z",
+        "description": "二世复活！买pr私聊我呀\n一世账号2d4SEUFUBFzltqB\n三世账号OscarSa45267516\n一个联系不上可以换一个联系噢",
+        "id": "1051173694779863040",
+        "is_identity_verified": false,
+        "location": "美国",
+        "most_recent_tweet_id": "2099508912344985902",
+        "name": "小爱同学_二世/出售pr",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1051173694779863040/1781710907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067271497765515264/x4DT4Mus_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 37,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "madina__mart",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-04T09:07:06.000Z",
+        "description": "救贖天使 新人画师，阴湿蕾蕾 只是会吃神秘小药片💊💊噶手手🩸🔪 情绪不稳定/双相/焦虑症 舞萌 经常碎碎念EN&CN OK 日本語苦手 欢迎同类找我聊天贴贴🍥老婆@linwei130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 81,
+                "username": "linwei130"
+              }
+            ]
+          }
+        },
+        "id": "1169174984389885952",
+        "is_identity_verified": false,
+        "location": "New York, NY",
+        "most_recent_tweet_id": "2099492619768217767",
+        "name": "小救「回归」",
+        "pinned_tweet_id": "2043782475936120911",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1169174984389885952/1783508953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058870609170616320/JW0PIo2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1716,
+          "following_count": 655,
+          "like_count": 18989,
+          "listed_count": 5,
+          "media_count": 723,
+          "tweet_count": 6041
+        },
+        "url": "",
+        "username": "Angel_SaveUsAll",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

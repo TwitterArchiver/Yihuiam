@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2101341523212435775",
+    "created_at": "2026-09-20T15:02:48.000Z",
+    "display_text_range": [
+      29,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T16:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101688534172336191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1890793891588132865",
+          "start": 0,
+          "username": "lolilove0612"
+        },
+        {
+          "end": 28,
+          "id": "1860377535215013888",
+          "start": 14,
+          "username": "AraiNogawaovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101688534172336191",
+    "in_reply_to_user_id": "1890793891588132865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101674009217937510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lolilove0612 @AraiNogawaovo 确实本身就容易坠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2101341523212435775",
+        "created_at": "2026-09-20T15:02:48.000Z",
+        "display_text_range": [
+          29,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T16:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101688534172336191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1890793891588132865",
+              "start": 0,
+              "username": "lolilove0612"
+            },
+            {
+              "end": 28,
+              "id": "1860377535215013888",
+              "start": 14,
+              "username": "AraiNogawaovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101688534172336191",
+        "in_reply_to_user_id": "1890793891588132865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101674009217937510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lolilove0612 @AraiNogawaovo 确实本身就容易坠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890793891588132865",
+        "conversation_id": "2101341523212435775",
+        "created_at": "2026-09-20T14:05:05.000Z",
+        "display_text_range": [
+          24,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T15:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101674009217937510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2041095876417122305",
+              "start": 0,
+              "username": "Yihuiam"
+            },
+            {
+              "end": 23,
+              "id": "1860377535215013888",
+              "start": 9,
+              "username": "AraiNogawaovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101674009217937510",
+        "in_reply_to_user_id": "2041095876417122305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101537983317024824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yihuiam @AraiNogawaovo 容易坠吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "泛/友一切/学习中/酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂//增梦剂//音乐/影视/书籍\n好闺闺@AraiNogawaovo \n梨梨@Hendry540558\n好闺闺@RottenCrow1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "AraiNogawaovo"
+              },
+              {
+                "end": 82,
+                "start": 69,
+                "username": "Hendry540558"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "username": "RottenCrow1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL1UK1"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101688534172336191",
+        "name": "Ichito",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041095876417122305/1779626311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 1116,
+          "like_count": 9142,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 498
+        },
+        "url": "https://t.co/EFwkXL1UK1",
+        "username": "Yihuiam",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-15T16:03:07.000Z",
+        "description": "活短盲\n有爹 勿擾^_^",
+        "id": "1890793891588132865",
+        "is_identity_verified": false,
+        "location": "枕头的褶皱",
+        "most_recent_tweet_id": "2101674009217937510",
+        "name": "想和自己殉情吗？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1890793891588132865/1752934712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930937892223987712/NEYHbEfS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 82,
+          "like_count": 4148,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 548
+        },
+        "url": "",
+        "username": "lolilove0612",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-23T17:39:13.000Z",
+        "description": "雙手合十的時候，第一個聽到祈禱的人是自己。\n-\n精神病channel偶爾發一些照片和作品\n微查成分互fo\n-\n闲聊群https://t.co/IJX8d7N6vG\nbelieve in Satan La Vey",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 81,
+                "expanded_url": "https://x.com/i/chat/group_join/g2099560623025889330/9RJhkwgGm0",
+                "start": 58,
+                "url": "https://t.co/IJX8d7N6vG"
+              }
+            ]
+          }
+        },
+        "id": "1860377535215013888",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2101685477996900366",
+        "name": "荒井野川",
+        "pinned_tweet_id": "2099067822152560977",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1860377535215013888/1783699878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075617491817226240/WqJS9TrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 302,
+          "like_count": 2337,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 1397
+        },
+        "url": "",
+        "username": "AraiNogawaovo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

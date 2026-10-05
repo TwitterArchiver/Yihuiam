@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2100084408472776848",
+    "created_at": "2026-09-16T04:48:35.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T05:48:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100084408472776848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1076746882494263297",
+          "start": 3,
+          "username": "jiejinghua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100084408472776848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099991317468340312",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiejinghua: 各类化工网上普瑞巴林相关内容\n工业级/试剂级/医药级均已禁售\n\n中国的化工网贩毒案例越来越多，越来越流行化。近年来od圈贩毒率显著增加，随着曝光度提高化工产业正在一步步收缩法律边界。据本人所有现在还更有很工厂做了和成素策划药这种严打的。综合来看策…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1151,
+        "media_key": "3_2099991309893468160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSSq-FmbgAAkVeI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2100084408472776848",
+        "created_at": "2026-09-16T04:48:35.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T05:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100084408472776848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1076746882494263297",
+              "start": 3,
+              "username": "jiejinghua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100084408472776848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099991317468340312",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiejinghua: 各类化工网上普瑞巴林相关内容\n工业级/试剂级/医药级均已禁售\n\n中国的化工网贩毒案例越来越多，越来越流行化。近年来od圈贩毒率显著增加，随着曝光度提高化工产业正在一步步收缩法律边界。据本人所有现在还更有很工厂做了和成素策划药这种严打的。综合来看策…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099991309893468160"
+          ]
+        },
+        "author_id": "1076746882494263297",
+        "conversation_id": "2099991317468340312",
+        "created_at": "2026-09-15T22:38:40.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T23:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099991317468340312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G9tzwaM3Ig",
+              "end": 160,
+              "expanded_url": "https://x.com/jiejinghua/status/2099991317468340312/photo/1",
+              "media_key": "3_2099991309893468160",
+              "start": 137,
+              "url": "https://t.co/G9tzwaM3Ig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099991317468340312",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099991309893468160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 668,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各类化工网上普瑞巴林相关内容\n工业级/试剂级/医药级均已禁售\n\n中国的化工网贩毒案例越来越多，越来越流行化。近年来od圈贩毒率显著增加，随着曝光度提高化工产业正在一步步收缩法律边界。据本人所有现在还更有很工厂做了和成素策划药这种严打的。综合来看策划药的路这几年马上走不远了 https://t.co/G9tzwaM3Ig"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "泛/友一切/学习中/酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂////音乐/影视/书籍\n好闺闺@AraiNogawaovo \n梨梨@Hendry540558\n好闺闺@RottenCrow1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "AraiNogawaovo"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Hendry540558"
+              },
+              {
+                "end": 95,
+                "start": 83,
+                "username": "RottenCrow1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL2szz"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100084408472776848",
+        "name": "Ichito",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041095876417122305/1779626311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 1092,
+          "like_count": 8188,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 489
+        },
+        "url": "https://t.co/EFwkXL2szz",
+        "username": "Yihuiam",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-23T07:50:36.000Z",
+        "description": "欢迎互fo，小众亚文化论坛，科普与论坛一体，支持药物旅程可视化工具。请勿滥用药物。免费提供用药科普请DM。交朋友私信，关注结晶化谢谢喵\n\n长期寻找广告合作有意私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crystallize.club",
+                "end": 23,
+                "expanded_url": "https://www.crystallize.club",
+                "start": 0,
+                "url": "https://t.co/VMFYr9sSC9"
+              }
+            ]
+          }
+        },
+        "id": "1076746882494263297",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099994570398597160",
+        "name": "结晶化 - 亚文化论坛",
+        "pinned_tweet_id": "2087973981735235673",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1076746882494263297/1786694370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087952398765711361/6XBstVGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 187,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 274
+        },
+        "url": "https://t.co/VMFYr9sSC9",
+        "username": "jiejinghua",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

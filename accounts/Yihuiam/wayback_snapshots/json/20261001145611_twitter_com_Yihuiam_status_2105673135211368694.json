@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105571627807420416",
+        "3_2105571633041977344"
+      ],
+      "media_source_tweet_id": [
+        "2105571637680873720",
+        "2105571637680873720"
+      ]
+    },
+    "author_id": "2041095876417122305",
+    "conversation_id": "2105673135211368694",
+    "created_at": "2026-10-01T14:56:11.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T15:56:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105673135211368694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2008769622317916160",
+          "start": 3,
+          "username": "pistachio_hello"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gcphMODP53",
+          "end": 52,
+          "expanded_url": "https://x.com/pistachio_hello/status/2105571637680873720/photo/1",
+          "media_key": "3_2105571627807420416",
+          "start": 29,
+          "url": "https://t.co/gcphMODP53"
+        },
+        {
+          "display_url": "pic.x.com/gcphMODP53",
+          "end": 52,
+          "expanded_url": "https://x.com/pistachio_hello/status/2105571637680873720/photo/1",
+          "media_key": "3_2105571633041977344",
+          "start": 29,
+          "url": "https://t.co/gcphMODP53"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105673135211368694",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "3_2105571627807420416"
+      },
+      {
+        "media_key": "3_2105571633041977344"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25936
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105571637680873720",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pistachio_hello: 후지산 대폭발 https://t.co/gcphMODP53"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1296,
+        "media_key": "3_2105571627807420416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTh-PVyaMAApCih.jpg",
+        "width": 972
+      },
+      {
+        "height": 1448,
+        "media_key": "3_2105571633041977344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTh-PpSbMAAOiS4.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105571627807420416",
+            "3_2105571633041977344"
+          ],
+          "media_source_tweet_id": [
+            "2105571637680873720",
+            "2105571637680873720"
+          ]
+        },
+        "author_id": "2041095876417122305",
+        "conversation_id": "2105673135211368694",
+        "created_at": "2026-10-01T14:56:11.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T15:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105673135211368694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2008769622317916160",
+              "start": 3,
+              "username": "pistachio_hello"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gcphMODP53",
+              "end": 52,
+              "expanded_url": "https://x.com/pistachio_hello/status/2105571637680873720/photo/1",
+              "media_key": "3_2105571627807420416",
+              "start": 29,
+              "url": "https://t.co/gcphMODP53"
+            },
+            {
+              "display_url": "pic.x.com/gcphMODP53",
+              "end": 52,
+              "expanded_url": "https://x.com/pistachio_hello/status/2105571637680873720/photo/1",
+              "media_key": "3_2105571633041977344",
+              "start": 29,
+              "url": "https://t.co/gcphMODP53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105673135211368694",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2105571627807420416"
+          },
+          {
+            "media_key": "3_2105571633041977344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25936
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105571637680873720",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pistachio_hello: 후지산 대폭발 https://t.co/gcphMODP53"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105571627807420416",
+            "3_2105571633041977344"
+          ]
+        },
+        "author_id": "2008769622317916160",
+        "conversation_id": "2105571637680873720",
+        "created_at": "2026-10-01T08:12:52.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T09:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105571637680873720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gcphMODP53",
+              "end": 31,
+              "expanded_url": "https://x.com/pistachio_hello/status/2105571637680873720/photo/1",
+              "media_key": "3_2105571627807420416",
+              "start": 8,
+              "url": "https://t.co/gcphMODP53"
+            },
+            {
+              "display_url": "pic.x.com/gcphMODP53",
+              "end": 31,
+              "expanded_url": "https://x.com/pistachio_hello/status/2105571637680873720/photo/1",
+              "media_key": "3_2105571633041977344",
+              "start": 8,
+              "url": "https://t.co/gcphMODP53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105571637680873720",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2105571627807420416"
+          },
+          {
+            "media_key": "3_2105571633041977344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5972,
+          "impression_count": 2158785,
+          "like_count": 187403,
+          "quote_count": 411,
+          "reply_count": 176,
+          "retweet_count": 25950
+        },
+        "reply_settings": "everyone",
+        "text": "후지산 대폭발 https://t.co/gcphMODP53"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "泛/友一切/学习中/酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂//增梦剂//音乐/影视/书籍 #drugtwt\n好闺闺@AraiNogawaovo \n梨梨@Hendry540558\n好闺闺@RottenCrow1",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 48,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "AraiNogawaovo"
+              },
+              {
+                "end": 91,
+                "start": 78,
+                "username": "Hendry540558"
+              },
+              {
+                "end": 107,
+                "start": 95,
+                "username": "RottenCrow1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL2szz"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105673135211368694",
+        "name": "Ichito",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041095876417122305/1779626311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 1163,
+          "like_count": 10141,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 560
+        },
+        "url": "https://t.co/EFwkXL2szz",
+        "username": "Yihuiam",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T05:16:26.000Z",
+        "description": "올리고 싶은거 올리는 계정🐰☘️\n일상 / 귀여움 / 유머 다 좋아해요🍒\n\n피스타치오 좋아",
+        "id": "2008769622317916160",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105666161518268676",
+        "name": "피타",
+        "pinned_tweet_id": "2105571637680873720",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008769622317916160/1785925206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084972215163121664/x_eC-XwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919,
+          "following_count": 1519,
+          "like_count": 5821,
+          "listed_count": 2,
+          "media_count": 274,
+          "tweet_count": 13930
+        },
+        "url": "",
+        "username": "pistachio_hello",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

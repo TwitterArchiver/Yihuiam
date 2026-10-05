@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2104468167204757681",
+    "created_at": "2026-09-28T14:29:44.000Z",
+    "display_text_range": [
+      11,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T15:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104579314960539820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1852686868846092288",
+          "start": 0,
+          "username": "TL_Xingyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104579314960539820",
+    "in_reply_to_user_id": "1852686868846092288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104578629372141966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TL_Xingyi 可以啊可以啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2104468167204757681",
+        "created_at": "2026-09-28T14:29:44.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T15:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104579314960539820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1852686868846092288",
+              "start": 0,
+              "username": "TL_Xingyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104579314960539820",
+        "in_reply_to_user_id": "1852686868846092288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104578629372141966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TL_Xingyi 可以啊可以啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852686868846092288",
+        "conversation_id": "2104468167204757681",
+        "created_at": "2026-09-28T14:27:01.000Z",
+        "display_text_range": [
+          9,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T15:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104578629372141966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2041095876417122305",
+              "start": 0,
+              "username": "Yihuiam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104578629372141966",
+        "in_reply_to_user_id": "2041095876417122305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104468167204757681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yihuiam 来开麦玩安慕希"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "泛/友一切/学习中/酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂//增梦剂//音乐/影视/书籍 #drugtwt\n好闺闺@AraiNogawaovo \n梨梨@Hendry540558\n好闺闺@RottenCrow1",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 48,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "AraiNogawaovo"
+              },
+              {
+                "end": 91,
+                "start": 78,
+                "username": "Hendry540558"
+              },
+              {
+                "end": 107,
+                "start": 95,
+                "username": "RottenCrow1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL2szz"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104579314960539820",
+        "name": "Ichito",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041095876417122305/1779626311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 1145,
+          "like_count": 9821,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 537
+        },
+        "url": "https://t.co/EFwkXL2szz",
+        "username": "Yihuiam",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-02T12:25:58.000Z",
+        "description": "5:30the car missin'  HRT：2025.12.9 无证💕\n马列毛主义/从马列角度支持LGBT无产化/偏新左？/现代毛派/反修正主义/反资反帝/脱产学生学习理论克服小资性。重度抑郁/中度焦虑。 友跨🏳️‍⚧️同类互fo喵。互fo都会回的喵😺如果你不知道自己为什么被ban，参见置顶简介\n欢迎蓝V互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xqzxmarxismclub.com",
+                "end": 23,
+                "expanded_url": "http://xqzxmarxismclub.com",
+                "start": 0,
+                "url": "https://t.co/slB5soWybu"
+              }
+            ]
+          }
+        },
+        "id": "1852686868846092288",
+        "is_identity_verified": true,
+        "location": "Roermond, Nederland",
+        "most_recent_tweet_id": "2104578629372141966",
+        "name": "Physic530🏳️‍⚧️🍥☭",
+        "pinned_tweet_id": "2076410044397314185",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852686868846092288/1778247523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021662006047338496/LzTR6pRS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 676,
+          "like_count": 12667,
+          "listed_count": 2,
+          "media_count": 182,
+          "tweet_count": 2058
+        },
+        "url": "https://t.co/slB5soWybu",
+        "username": "TL_Xingyi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

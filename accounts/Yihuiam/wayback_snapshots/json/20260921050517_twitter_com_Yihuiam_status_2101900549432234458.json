@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2101577955399119223",
+    "created_at": "2026-09-21T05:05:17.000Z",
+    "display_text_range": [
+      10,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T06:05:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101900549432234458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1972944778116706304",
+          "start": 0,
+          "username": "fine_420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101900549432234458",
+    "in_reply_to_user_id": "1972944778116706304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101577955399119223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fine_420 邮票快补货呀😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2101577955399119223",
+        "created_at": "2026-09-21T05:05:17.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T06:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101900549432234458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1972944778116706304",
+              "start": 0,
+              "username": "fine_420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101900549432234458",
+        "in_reply_to_user_id": "1972944778116706304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101577955399119223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fine_420 邮票快补货呀😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972944778116706304",
+        "conversation_id": "2101577955399119223",
+        "created_at": "2026-09-20T07:43:24.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T08:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101577955399119223"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101577955399119223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位老板我已经开通了x的premium功能 注意识别 不要相信任何主动私信你的人 我们出售大麻 大麻电子烟（THC蛋）邮票  蘑菇"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "泛/友一切/学习中/酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂//增梦剂//音乐/影视/书籍\n好闺闺@AraiNogawaovo \n梨梨@Hendry540558\n好闺闺@RottenCrow1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "AraiNogawaovo"
+              },
+              {
+                "end": 82,
+                "start": 69,
+                "username": "Hendry540558"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "username": "RottenCrow1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL1UK1"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101900549432234458",
+        "name": "Ichito",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041095876417122305/1779626311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 1118,
+          "like_count": 9198,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 503
+        },
+        "url": "https://t.co/EFwkXL1UK1",
+        "username": "Yihuiam",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-30T08:41:20.000Z",
+        "description": "我们不会主动私信客户兜售产品 请不要相信主动私信你的人！我们的产品包含🍃 🎫 🍄 thc🥚 我的tg账号 @yfl_420 我的脆账号 @yful_420",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "yfl_420"
+              },
+              {
+                "end": 77,
+                "start": 68,
+                "username": "yful_420"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/YFL_420",
+                "end": 23,
+                "expanded_url": "https://t.me/YFL_420",
+                "start": 0,
+                "url": "https://t.co/Xe6UOUyFBb"
+              }
+            ]
+          }
+        },
+        "id": "1972944778116706304",
+        "is_identity_verified": false,
+        "location": "#420 共和国",
+        "most_recent_tweet_id": "2101746051124465700",
+        "name": "伊芙琳 420 大麻/大麻电子烟",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972944778116706304/1789240967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098854806135959552/0iCi6r1V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 8,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 143
+        },
+        "url": "https://t.co/Xe6UOUyFBb",
+        "username": "fine_420",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

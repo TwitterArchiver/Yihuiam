@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2099262101458186588",
+    "created_at": "2026-09-14T17:47:01.000Z",
+    "display_text_range": [
+      17,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T18:47:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099555534689247506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1753076943426301953",
+          "start": 0,
+          "username": "cixkn5703974462"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099555534689247506",
+    "in_reply_to_user_id": "1753076943426301953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099262101458186588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cixkn5703974462 红发少年杀人事件"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2099262076871151616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSITvI5akAAnR7W.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2099262086539042816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSITvs6a4AAClWD.jpg",
+        "width": 4096
+      },
+      {
+        "height": 941,
+        "media_key": "3_2099262096202739712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSITwQ6bMAABDH8.jpg",
+        "width": 1672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2099262101458186588",
+        "created_at": "2026-09-14T17:47:01.000Z",
+        "display_text_range": [
+          17,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T18:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099555534689247506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1753076943426301953",
+              "start": 0,
+              "username": "cixkn5703974462"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099555534689247506",
+        "in_reply_to_user_id": "1753076943426301953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099262101458186588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cixkn5703974462 红发少年杀人事件"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099262076871151616",
+            "3_2099262086539042816",
+            "3_2099262096202739712"
+          ]
+        },
+        "author_id": "1753076943426301953",
+        "conversation_id": "2099262101458186588",
+        "created_at": "2026-09-13T22:21:02.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T23:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099262101458186588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VRlLyxEoZB",
+              "end": 23,
+              "expanded_url": "https://x.com/cixkn5703974462/status/2099262101458186588/photo/1",
+              "media_key": "3_2099262076871151616",
+              "start": 0,
+              "url": "https://t.co/VRlLyxEoZB"
+            },
+            {
+              "display_url": "pic.x.com/VRlLyxEoZB",
+              "end": 23,
+              "expanded_url": "https://x.com/cixkn5703974462/status/2099262101458186588/photo/1",
+              "media_key": "3_2099262086539042816",
+              "start": 0,
+              "url": "https://t.co/VRlLyxEoZB"
+            },
+            {
+              "display_url": "pic.x.com/VRlLyxEoZB",
+              "end": 23,
+              "expanded_url": "https://x.com/cixkn5703974462/status/2099262101458186588/photo/1",
+              "media_key": "3_2099262096202739712",
+              "start": 0,
+              "url": "https://t.co/VRlLyxEoZB"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "4797714c95971ac1"
+        },
+        "id": "2099262101458186588",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2099262076871151616"
+          },
+          {
+            "media_key": "3_2099262086539042816"
+          },
+          {
+            "media_key": "3_2099262096202739712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VRlLyxEoZB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习中🙂酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂////音乐/影视/书籍\n好闺闺@RottenCrow1\n梨梨@Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 87,
+                "start": 74,
+                "username": "Hendry540558"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL2szz"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099555534689247506",
+        "name": "Ichito",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041095876417122305/1779626311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 1032,
+          "like_count": 7793,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 485
+        },
+        "url": "https://t.co/EFwkXL2szz",
+        "username": "Yihuiam",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-01T15:25:38.000Z",
+        "description": "喵🚪-0.01(加我转你一分诱人不                                                                                    愿所有人幸福 ║ 不要od…… ║ 留在这个世界\n请私信骚扰我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=QkTDIeIQcf5rYpfi",
+                "start": 0,
+                "url": "https://t.co/EQGfsYDzHB"
+              }
+            ]
+          }
+        },
+        "id": "1753076943426301953",
+        "is_identity_verified": false,
+        "location": "窗缝",
+        "most_recent_tweet_id": "2099547897390141651",
+        "name": "pAsserby",
+        "pinned_tweet_id": "2022392144930210188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753076943426301953/1786429329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091153712568049664/hGkWhJNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 571,
+          "like_count": 8862,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1002
+        },
+        "url": "https://t.co/EQGfsYDzHB",
+        "username": "cixkn5703974462",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

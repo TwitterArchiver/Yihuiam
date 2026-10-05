@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104233868694028288"
+      ],
+      "media_source_tweet_id": [
+        "2104233876419952900"
+      ]
+    },
+    "author_id": "2041095876417122305",
+    "conversation_id": "2104543736890102044",
+    "created_at": "2026-09-28T12:08:22.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T13:08:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104543736890102044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1857483338006802434",
+          "start": 3,
+          "username": "nininililily"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jPEGdWwuUF",
+          "end": 70,
+          "expanded_url": "https://x.com/nininililily/status/2104233876419952900/photo/1",
+          "media_key": "3_2104233868694028288",
+          "start": 47,
+          "url": "https://t.co/jPEGdWwuUF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104543736890102044",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104233868694028288"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104233876419952900",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nininililily: 两百fo粉丝离抽两个送一人四板红普\n转发评论关注自动参加 https://t.co/jPEGdWwuUF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104233868694028288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTO9jgvagAAsW4i.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104233868694028288"
+          ],
+          "media_source_tweet_id": [
+            "2104233876419952900"
+          ]
+        },
+        "author_id": "2041095876417122305",
+        "conversation_id": "2104543736890102044",
+        "created_at": "2026-09-28T12:08:22.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T13:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104543736890102044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1857483338006802434",
+              "start": 3,
+              "username": "nininililily"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jPEGdWwuUF",
+              "end": 70,
+              "expanded_url": "https://x.com/nininililily/status/2104233876419952900/photo/1",
+              "media_key": "3_2104233868694028288",
+              "start": 47,
+              "url": "https://t.co/jPEGdWwuUF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104543736890102044",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104233868694028288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104233876419952900",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nininililily: 两百fo粉丝离抽两个送一人四板红普\n转发评论关注自动参加 https://t.co/jPEGdWwuUF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104233868694028288"
+          ]
+        },
+        "author_id": "1857483338006802434",
+        "conversation_id": "2104233876419952900",
+        "created_at": "2026-09-27T15:37:05.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T16:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104233876419952900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jPEGdWwuUF",
+              "end": 52,
+              "expanded_url": "https://x.com/nininililily/status/2104233876419952900/photo/1",
+              "media_key": "3_2104233868694028288",
+              "start": 29,
+              "url": "https://t.co/jPEGdWwuUF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104233876419952900",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104233868694028288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 970,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "两百fo粉丝离抽两个送一人四板红普\n转发评论关注自动参加 https://t.co/jPEGdWwuUF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "泛/友一切/学习中/酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂//增梦剂//音乐/影视/书籍 #drugtwt\n好闺闺@AraiNogawaovo \n梨梨@Hendry540558\n好闺闺@RottenCrow1",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 48,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "AraiNogawaovo"
+              },
+              {
+                "end": 91,
+                "start": 78,
+                "username": "Hendry540558"
+              },
+              {
+                "end": 107,
+                "start": 95,
+                "username": "RottenCrow1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL2szz"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104543736890102044",
+        "name": "Ichito",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041095876417122305/1779626311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 1145,
+          "like_count": 9800,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 533
+        },
+        "url": "https://t.co/EFwkXL2szz",
+        "username": "Yihuiam",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-15T17:58:47.000Z",
+        "description": "帝王正在建立她的王国\n黑夜 白昼 都是王的赐福\n🚪52/88（纯绿\n(˶‾᷄ ⁻̫ ‾᷅˵)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mihuonojiao124",
+                "end": 23,
+                "expanded_url": "https://t.me/mihuonojiao124",
+                "start": 0,
+                "url": "https://t.co/A4Skx0FMLv"
+              }
+            ]
+          }
+        },
+        "id": "1857483338006802434",
+        "is_identity_verified": false,
+        "location": "Shibuya-ku, Tokyo",
+        "most_recent_tweet_id": "2104522361592815921",
+        "name": "めいわく",
+        "pinned_tweet_id": "2101457742162690194",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857483338006802434/1790558625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092909113906970624/zDMZcrt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 54,
+          "like_count": 399,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 560
+        },
+        "url": "https://t.co/A4Skx0FMLv",
+        "username": "nininililily",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

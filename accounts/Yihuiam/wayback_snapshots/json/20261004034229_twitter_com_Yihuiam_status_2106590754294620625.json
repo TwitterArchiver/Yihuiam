@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2106590754294620625",
+    "created_at": "2026-10-04T03:42:29.000Z",
+    "display_text_range": [
+      0,
+      128
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T04:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106590754294620625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2072699786336075776",
+          "start": 3,
+          "username": "zhiyeranxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106590754294620625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106404299471569098",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhiyeranxi: 我是夜凪，生活在虚幻与现实的临界的幽灵\n百fo抽奖帖\n一等奖：10g pr原粉   一名\n二等奖：24t    ym    一名\n三等奖：麦当劳薯条四重奏（折现30r） 一名\n关注转发点赞评论即可参与  10月13日零点开奖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2106590754294620625",
+        "created_at": "2026-10-04T03:42:29.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T04:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106590754294620625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2072699786336075776",
+              "start": 3,
+              "username": "zhiyeranxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106590754294620625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106404299471569098",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhiyeranxi: 我是夜凪，生活在虚幻与现实的临界的幽灵\n百fo抽奖帖\n一等奖：10g pr原粉   一名\n二等奖：24t    ym    一名\n三等奖：麦当劳薯条四重奏（折现30r） 一名\n关注转发点赞评论即可参与  10月13日零点开奖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072699786336075776",
+        "conversation_id": "2106404299471569098",
+        "created_at": "2026-10-03T15:21:34.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T16:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106404299471569098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106404299471569098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3080,
+          "like_count": 99,
+          "quote_count": 2,
+          "reply_count": 77,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "我是夜凪，生活在虚幻与现实的临界的幽灵\n百fo抽奖帖\n一等奖：10g pr原粉   一名\n二等奖：24t    ym    一名\n三等奖：麦当劳薯条四重奏（折现30r） 一名\n关注转发点赞评论即可参与  10月13日零点开奖"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "泛/友一切/学习中/酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂//增梦剂//音乐/影视/书籍 #drugtwt\n好闺闺@AraiNogawaovo \n梨梨@Hendry540558\n好闺闺@RottenCrow1",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 48,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "AraiNogawaovo"
+              },
+              {
+                "end": 91,
+                "start": 78,
+                "username": "Hendry540558"
+              },
+              {
+                "end": 107,
+                "start": 95,
+                "username": "RottenCrow1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL2szz"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106590754294620625",
+        "name": "Ichito",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041095876417122305/1779626311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 1165,
+          "like_count": 10246,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 565
+        },
+        "url": "https://t.co/EFwkXL2szz",
+        "username": "Yihuiam",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-02T15:14:29.000Z",
+        "description": "这是梦与幻的乐园 记录着虚幻的世界\n性格飘忽不定，坚定的悲剧爱好者\n负能量与正能量的集合体 预感到自己会在某个夏日结束前离开",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%A4%9C%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%A4%9C%E5%87%AA%E6%B1%90%E6%9F%931",
+                "start": 0,
+                "url": "https://t.co/LtxUZ7iP7i"
+              }
+            ]
+          }
+        },
+        "id": "2072699786336075776",
+        "is_identity_verified": false,
+        "location": "Dream country",
+        "most_recent_tweet_id": "2106584820214346128",
+        "name": "凪夜柒汐",
+        "pinned_tweet_id": "2106404299471569098",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2072699786336075776/1783005464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072700977178722304/RalLc1Iw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 144,
+          "like_count": 4080,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 676
+        },
+        "url": "https://t.co/LtxUZ7iP7i",
+        "username": "zhiyeranxi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2093978973357424840",
+    "created_at": "2026-09-14T21:20:15.000Z",
+    "display_text_range": [
+      14,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T22:20:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099609194056110514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1293074266515099648",
+          "start": 0,
+          "username": "Plaskid_9244"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099609194056110514",
+    "in_reply_to_user_id": "1293074266515099648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094057388236280233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Plaskid_9244 你好你好你好才看到 x的消息推送太烂了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2093978973357424840",
+        "created_at": "2026-09-14T21:20:15.000Z",
+        "display_text_range": [
+          14,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T22:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099609194056110514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1293074266515099648",
+              "start": 0,
+              "username": "Plaskid_9244"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099609194056110514",
+        "in_reply_to_user_id": "1293074266515099648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094057388236280233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Plaskid_9244 你好你好你好才看到 x的消息推送太烂了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1293074266515099648",
+        "conversation_id": "2093978973357424840",
+        "created_at": "2026-08-30T13:39:21.000Z",
+        "display_text_range": [
+          9,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T14:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094057388236280233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2041095876417122305",
+              "start": 0,
+              "username": "Yihuiam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094057388236280233",
+        "in_reply_to_user_id": "2041095876417122305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093978973357424840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yihuiam 你好你好你好"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习中🙂酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂////音乐/影视/书籍\n好闺闺@AraiNogawaovo \n梨梨@Hendry540558\n好闺闺@RottenCrow1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 59,
+                "username": "AraiNogawaovo"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "Hendry540558"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "RottenCrow1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL2szz"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099609194056110514",
+        "name": "Ichito",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041095876417122305/1779626311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 1059,
+          "like_count": 7961,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 488
+        },
+        "url": "https://t.co/EFwkXL2szz",
+        "username": "Yihuiam",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-11T06:38:41.000Z",
+        "description": "觸感，像在 Gangsta Grillz 裡、也许「戰爭反對」、也許是我正眷恋以前做一棵 Weihnachtsbaum 的日子。",
+        "id": "1293074266515099648",
+        "is_identity_verified": false,
+        "location": "Newcastle,UK",
+        "most_recent_tweet_id": "2099110591918899673",
+        "name": "v0dkakillzmyenvyy",
+        "pinned_tweet_id": "2079509281867759756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1293074266515099648/1778924851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058415908708818944/WfaauD3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 943,
+          "like_count": 13711,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 2340
+        },
+        "url": "",
+        "username": "Plaskid_9244",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

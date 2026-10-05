@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041095876417122305",
+    "conversation_id": "2104143419958534315",
+    "created_at": "2026-09-27T10:02:56.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T11:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104149786077413535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2102073415997984770",
+          "start": 0,
+          "username": "OrrckHermos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104149786077413535",
+    "in_reply_to_user_id": "2102073415997984770",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104148594597240931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OrrckHermos piru"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2104143419958534315",
+        "created_at": "2026-09-27T10:02:56.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T11:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104149786077413535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2102073415997984770",
+              "start": 0,
+              "username": "OrrckHermos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104149786077413535",
+        "in_reply_to_user_id": "2102073415997984770",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104148594597240931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OrrckHermos piru"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2102073415997984770",
+        "conversation_id": "2104143419958534315",
+        "created_at": "2026-09-27T09:58:12.000Z",
+        "display_text_range": [
+          9,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T10:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104148594597240931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2041095876417122305",
+              "start": 0,
+              "username": "Yihuiam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104148594597240931",
+        "in_reply_to_user_id": "2041095876417122305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104143419958534315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yihuiam 这是什么软件"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "泛/友一切/学习中/酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂//增梦剂//音乐/影视/书籍 #drugtwt\n好闺闺@AraiNogawaovo \n梨梨@Hendry540558\n好闺闺@RottenCrow1",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 48,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "AraiNogawaovo"
+              },
+              {
+                "end": 91,
+                "start": 78,
+                "username": "Hendry540558"
+              },
+              {
+                "end": 107,
+                "start": 95,
+                "username": "RottenCrow1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL2szz"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104149786077413535",
+        "name": "Ichito",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041095876417122305/1779626311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 1146,
+          "like_count": 9704,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 520
+        },
+        "url": "https://t.co/EFwkXL2szz",
+        "username": "Yihuiam",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-21T16:33:23.000Z",
+        "description": "/cn灰夜or乌鸦/\n/性格温良欢迎小窗/\n/欢迎心理疾病或者任何人群/\n/小窗开放/\n/如果真的需要帮助那么请来，我会尽力/\n/ˇvˇ/\n联系方式：orrckhermos@outlook.com\n匿名纸条：https://t.co/9PC5aG1CkG\n愿我们真诚，愿我们崇高，愿我们走在路上。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orrckhermos",
+                "end": 127,
+                "expanded_url": "https://ngl.link/orrckhermos",
+                "start": 104,
+                "url": "https://t.co/9PC5aG1CkG"
+              }
+            ]
+          }
+        },
+        "id": "2102073415997984770",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104148594597240931",
+        "name": "屑乌鸦灰夜～",
+        "pinned_tweet_id": "2102091604232405436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2102073415997984770/1790100903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102074601937440769/uxxpWSDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 181,
+          "like_count": 436,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 335
+        },
+        "url": "",
+        "username": "OrrckHermos",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

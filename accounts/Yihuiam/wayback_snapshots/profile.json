@@ -1,23 +1,35 @@
 {
   "name": "Ichito",
   "username": "@Yihuiam",
-  "bio": "09/泛性恋//LGBTQ+友好/学习中🙂酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂////音乐/影视\n好闺闺@RottenCrow1\n梨梨@Hendry540558",
+  "bio": "泛/友一切/学习中/酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂//增梦剂//音乐/影视/书籍 #drugtwt\n好闺闺@AraiNogawaovo \n梨梨@Hendry540558\n好闺闺@RottenCrow1",
   "location": "",
   "link": "https://t.me/+aIoNeZz4IZ8wYmJk",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "",
   "bio_entities": {
+    "hashtags": [
+      {
+        "end": 56,
+        "start": 48,
+        "tag": "drugtwt"
+      }
+    ],
     "mentions": [
       {
-        "end": 68,
-        "start": 56,
-        "username": "RottenCrow1"
+        "end": 74,
+        "start": 60,
+        "username": "AraiNogawaovo"
       },
       {
-        "end": 84,
-        "start": 71,
+        "end": 91,
+        "start": 78,
         "username": "Hendry540558"
+      },
+      {
+        "end": 107,
+        "start": 95,
+        "username": "RottenCrow1"
       }
     ]
   },
